@@ -1,0 +1,8 @@
+services:
+  ai-helpdesk:
+    build: .
+    container_name: ai-it-helpdesk
+    ports:
+      - "8000:8000"
+    env_file:
+      - ".env"

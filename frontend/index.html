@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI IT Helpdesk</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>AI-Powered IT Helpdesk</h1>
+
+        <p class="subtitle">
+            Intelligent Ticket Management System
+        </p>
+
+        <!-- Ticket Information -->
+        <div class="card">
+
+            <h2>Create IT Support Ticket</h2>
+
+            <label>Employee ID</label>
+            <input
+                type="number"
+                id="employee_id"
+                placeholder="Enter employee ID"
+            >
+
+            <label>Subject</label>
+            <input
+                type="text"
+                id="subject"
+                placeholder="Example: WiFi connection problem"
+            >
+
+            <label>Description</label>
+            <textarea
+                id="description"
+                rows="5"
+                placeholder="Describe your IT problem..."
+            ></textarea>
+
+            <button type="button" onclick="predictTicket()">
+                Predict Ticket
+            </button>
+
+        </div>
+
+
+        <!-- AI Prediction -->
+        <div class="card">
+
+            <h2>AI Prediction Result</h2>
+
+            <p>
+                <strong>Predicted Category:</strong>
+                <span id="category">Not available</span>
+            </p>
+
+            <p>
+                <strong>Predicted Priority:</strong>
+                <span id="priority">Not available</span>
+            </p>
+
+            <p>
+                <strong>Recommended Solution:</strong>
+                <span id="solution">Not available</span>
+            </p>
+
+            <p>
+                <strong>Human Escalation Required:</strong>
+                <span id="escalation">Not available</span>
+            </p>
+
+        </div>
+
+
+        <!-- Submit Ticket -->
+        <div class="card">
+
+            <h2>Submit Ticket</h2>
+
+            <p>
+                After the AI prediction is generated, click below
+                to save the ticket in PostgreSQL.
+            </p>
+
+            <button type="button" onclick="createTicket()">
+                Create Ticket
+            </button>
+            <div id="createResult"></div>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

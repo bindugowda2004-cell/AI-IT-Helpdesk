@@ -1,0 +1,501 @@
+ticket_id,department,employee_type,subject,description,category,priority,status,created_at,resolved_at,resolution_time_hours
+1,Sales,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-08-02 14:59:00,,
+2,IT,Permanent,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-06-26 05:46:00,,
+3,Finance,Permanent,Unable to login,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-02-25 21:30:00,2026-02-27 16:52:12,43.37
+4,IT,Intern,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-03-30 18:35:00,2026-03-31 12:23:36,17.81
+5,HR,Contract,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-09-27 00:46:00,2026-09-27 20:44:12,19.97
+6,Finance,Contract,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-09-18 05:19:00,,
+7,Marketing,Intern,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-02-02 05:19:00,2026-02-03 17:40:00,36.35
+8,Marketing,Contract,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-05-23 18:50:00,,
+9,Marketing,Contract,Unable to send email,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-02-16 06:48:00,2026-02-17 20:04:12,37.27
+10,Finance,Permanent,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-04-02 09:53:00,,
+11,HR,Contract,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-07-04 09:51:00,2026-07-05 11:03:36,25.21
+12,IT,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-02-06 12:39:00,,
+13,Operations,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-02-04 01:18:00,,
+14,Operations,Permanent,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-04-07 19:58:00,,
+15,Operations,Permanent,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-07-22 16:51:00,,
+16,IT,Intern,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-02-20 13:58:00,,
+17,Marketing,Intern,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-02-17 16:22:00,,
+18,Operations,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-05-25 13:15:00,2026-05-27 02:10:12,36.92
+19,HR,Permanent,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-09-05 19:25:00,,
+20,IT,Contract,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-01-03 02:07:00,,
+21,Operations,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-06-26 22:40:00,,
+22,Operations,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-06-03 05:12:00,,
+23,IT,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-03-07 05:07:00,2026-03-08 01:19:00,20.2
+24,Operations,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-06-15 14:59:00,,
+25,Marketing,Intern,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-07-28 06:08:00,2026-07-29 18:38:36,36.51
+26,Operations,Permanent,Account is locked,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-07-02 14:05:00,2026-07-03 18:44:00,28.65
+27,Operations,Contract,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,Open,2026-06-06 03:40:00,,
+28,HR,Intern,User account is not working,Employee is unable to access or use their account.,Account,High,Open,2026-02-12 01:48:00,,
+29,IT,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-04-03 05:46:00,2026-04-05 00:55:36,43.16
+30,HR,Permanent,User account is not working,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-05-04 21:39:00,2026-05-05 22:30:36,24.86
+31,IT,Contract,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-01-09 07:49:00,2026-01-11 01:38:12,41.82
+32,Operations,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-03-09 14:56:00,2026-03-10 20:32:36,29.61
+33,Operations,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-06-10 01:41:00,,
+34,Sales,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-06-23 21:51:00,,
+35,IT,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-03-26 10:58:00,2026-03-26 22:50:48,11.88
+36,Finance,Intern,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Open,2026-03-23 10:26:00,,
+37,Sales,Permanent,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-04-28 13:48:00,,
+38,Sales,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Medium,In Progress,2026-02-05 11:15:00,,
+39,Marketing,Intern,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-06-26 13:44:00,2026-06-28 04:51:12,39.12
+40,Finance,Contract,Unable to send email,Employee is experiencing a problem with their email service.,Email,Medium,In Progress,2026-09-14 13:34:00,,
+41,HR,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,In Progress,2026-05-30 20:42:00,,
+42,IT,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-01-16 00:32:00,,
+43,IT,Permanent,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-09-01 12:23:00,,
+44,Sales,Permanent,Password reset required,Employee is unable to access or use their account.,Account,Low,Open,2026-07-25 14:10:00,,
+45,Sales,Intern,Application is crashing,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-07-25 21:03:00,,
+46,Finance,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,Open,2026-05-31 02:12:00,,
+47,IT,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-09-15 07:16:00,,
+48,Marketing,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-03-31 23:01:00,,
+49,Marketing,Contract,Password reset required,Employee is unable to access or use their account.,Account,High,In Progress,2026-05-06 00:48:00,,
+50,IT,Permanent,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-02-12 02:42:00,,
+51,Marketing,Permanent,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-04-12 02:17:00,,
+52,Marketing,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-01-03 01:45:00,,
+53,IT,Permanent,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-04-28 15:02:00,,
+54,Sales,Permanent,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-06-29 05:41:00,2026-06-29 10:48:12,5.12
+55,Finance,Permanent,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-06-18 16:06:00,,
+56,Finance,Permanent,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-02-11 11:26:00,,
+57,HR,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-02-09 15:53:00,,
+58,HR,Contract,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,High,Resolved,2026-09-25 04:08:00,2026-09-26 15:22:24,35.24
+59,Sales,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,In Progress,2026-03-09 15:14:00,,
+60,HR,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-09-18 01:49:00,,
+61,HR,Contract,Application is crashing,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-08-03 21:58:00,,
+62,IT,Permanent,Unable to send email,Employee is experiencing a problem with their email service.,Email,Low,Open,2026-05-31 10:42:00,,
+63,Sales,Contract,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-08-11 20:58:00,,
+64,Finance,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-06-17 13:00:00,,
+65,Operations,Permanent,Email is not syncing,Employee is experiencing a problem with their email service.,Email,High,Open,2026-01-19 11:45:00,,
+66,IT,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-03-19 19:07:00,,
+67,Sales,Permanent,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-08-26 19:02:00,2026-08-28 14:00:48,42.98
+68,Sales,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-04-13 02:15:00,,
+69,Sales,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-04-20 10:10:00,,
+70,Sales,Permanent,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Low,In Progress,2026-08-26 14:25:00,,
+71,Finance,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-08-18 22:26:00,,
+72,Operations,Contract,Unable to send email,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-06-13 08:14:00,2026-06-14 09:04:24,24.84
+73,Finance,Contract,User account is not working,Employee is unable to access or use their account.,Account,High,Resolved,2026-03-24 05:06:00,2026-03-24 07:18:36,2.21
+74,Finance,Contract,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-01-08 22:59:00,2026-01-09 16:16:24,17.29
+75,HR,Contract,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-01-06 17:52:00,,
+76,Sales,Contract,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-09-22 20:14:00,2026-09-23 21:26:36,25.21
+77,HR,Contract,Email is not syncing,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-07-11 08:51:00,,
+78,Finance,Intern,Unable to login,Employee is unable to access or use their account.,Account,Medium,Open,2026-07-25 22:37:00,,
+79,Marketing,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,Open,2026-06-03 01:35:00,,
+80,Operations,Contract,Unable to open software,Employee is facing an issue while using or installing software.,Software,High,In Progress,2026-07-24 21:51:00,,
+81,Marketing,Intern,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-09-14 22:58:00,2026-09-16 19:15:24,44.29
+82,Sales,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-03-01 04:49:00,2026-03-01 07:10:36,2.36
+83,IT,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-06-30 02:27:00,2026-06-30 08:48:00,6.35
+84,Sales,Permanent,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-03-25 18:05:00,,
+85,Sales,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-09-25 20:01:00,,
+86,Sales,Permanent,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-09-13 02:43:00,,
+87,Finance,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-05-19 01:44:00,,
+88,Sales,Permanent,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-09-12 11:48:00,,
+89,HR,Contract,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-07-24 05:13:00,2026-07-25 19:58:36,38.76
+90,Marketing,Permanent,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-01-11 10:47:00,2026-01-12 10:03:48,23.28
+91,Operations,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,High,Open,2026-02-08 22:38:00,,
+92,Sales,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,Open,2026-06-03 10:38:00,,
+93,Operations,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-05-17 06:09:00,,
+94,HR,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-04-25 17:55:00,,
+95,IT,Permanent,Application is crashing,Employee is facing an issue while using or installing software.,Software,Medium,Resolved,2026-09-16 23:32:00,2026-09-17 02:56:00,3.4
+96,HR,Permanent,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-08-08 21:46:00,,
+97,Operations,Permanent,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-04-20 13:08:00,2026-04-20 23:41:36,10.56
+98,IT,Intern,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-01-01 00:47:00,,
+99,Sales,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-05-12 12:45:00,2026-05-13 04:55:48,16.18
+100,Sales,Permanent,Application is crashing,Employee is facing an issue while using or installing software.,Software,High,Open,2026-04-12 01:15:00,,
+101,Marketing,Contract,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-02-02 08:16:00,,
+102,Marketing,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-05-19 19:55:00,,
+103,Operations,Intern,Software installation failed,Employee is facing an issue while using or installing software.,Software,High,Open,2026-02-27 22:45:00,,
+104,HR,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,In Progress,2026-02-20 12:22:00,,
+105,Sales,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-08-20 07:30:00,2026-08-21 13:22:48,29.88
+106,HR,Permanent,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,High,Open,2026-07-04 07:17:00,,
+107,Operations,Intern,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-05-19 14:54:00,2026-05-21 07:12:00,40.3
+108,Sales,Contract,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-01-21 06:10:00,2026-01-22 01:31:36,19.36
+109,HR,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-01-31 06:37:00,,
+110,IT,Contract,Software shows an error,Employee is facing an issue while using or installing software.,Software,Medium,Resolved,2026-02-20 21:16:00,2026-02-21 05:50:12,8.57
+111,HR,Contract,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-08-18 18:33:00,2026-08-19 17:57:00,23.4
+112,Finance,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-08-06 07:20:00,,
+113,Finance,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-09-24 18:42:00,2026-09-26 03:50:24,33.14
+114,Finance,Permanent,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-06-23 02:45:00,2026-06-25 00:30:00,45.75
+115,Operations,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,Low,Open,2026-04-29 12:28:00,,
+116,Marketing,Contract,Account is locked,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-09-11 15:25:00,2026-09-12 23:42:24,32.29
+117,Sales,Intern,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-05-19 08:35:00,,
+118,HR,Contract,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-02-18 08:44:00,2026-02-20 02:26:00,41.7
+119,Sales,Intern,Account is locked,Employee is unable to access or use their account.,Account,High,In Progress,2026-04-26 09:21:00,,
+120,Sales,Permanent,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-05-26 23:11:00,,
+121,HR,Permanent,Application is crashing,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-01-14 03:00:00,,
+122,Marketing,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,Low,Resolved,2026-01-27 19:19:00,2026-01-27 20:40:36,1.36
+123,Finance,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-05-08 22:58:00,,
+124,Operations,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-04-13 22:30:00,2026-04-14 22:39:00,24.15
+125,Marketing,Permanent,User account is not working,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-01-03 19:55:00,2026-01-04 04:29:48,8.58
+126,Operations,Permanent,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-05-05 03:10:00,2026-05-07 01:40:36,46.51
+127,HR,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,In Progress,2026-07-30 11:54:00,,
+128,Marketing,Contract,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-08-19 20:59:00,,
+129,Operations,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-04-25 01:08:00,2026-04-26 23:07:24,45.99
+130,HR,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-07-17 14:20:00,,
+131,Operations,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Low,Open,2026-02-11 04:50:00,,
+132,Marketing,Permanent,Unable to login,Employee is unable to access or use their account.,Account,Medium,Open,2026-08-21 01:30:00,,
+133,Sales,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-06-21 13:09:00,2026-06-22 11:02:24,21.89
+134,HR,Intern,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-07-18 11:14:00,,
+135,HR,Intern,Software shows an error,Employee is facing an issue while using or installing software.,Software,Medium,Resolved,2026-08-11 02:19:00,2026-08-11 11:46:00,9.45
+136,Sales,Contract,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-08-24 09:01:00,2026-08-25 05:49:36,20.81
+137,Marketing,Permanent,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-03-02 16:53:00,,
+138,IT,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-09-17 15:01:00,,
+139,Sales,Permanent,User account is not working,Employee is unable to access or use their account.,Account,High,In Progress,2026-05-07 13:25:00,,
+140,IT,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-09-26 08:47:00,,
+141,Sales,Intern,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,In Progress,2026-01-28 10:33:00,,
+142,Operations,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-03-23 10:24:00,,
+143,Marketing,Intern,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-02-22 05:16:00,,
+144,Operations,Permanent,Email is not syncing,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-03-20 19:04:00,2026-03-21 19:23:12,24.32
+145,IT,Intern,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-09-12 17:46:00,,
+146,IT,Contract,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-03-09 04:11:00,,
+147,Sales,Contract,Unable to open software,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-09-06 17:02:00,2026-09-07 08:50:36,15.81
+148,IT,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,In Progress,2026-07-11 06:03:00,,
+149,Sales,Intern,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-04-23 06:05:00,,
+150,Operations,Intern,Software shows an error,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-01-03 12:11:00,2026-01-05 10:33:48,46.38
+151,HR,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-01-16 01:25:00,,
+152,Marketing,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-06-19 00:49:00,2026-06-20 22:31:00,45.7
+153,IT,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-04-30 22:23:00,,
+154,IT,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-05-30 22:55:00,2026-06-01 12:31:00,37.6
+155,Operations,Intern,User account is not working,Employee is unable to access or use their account.,Account,High,Resolved,2026-04-26 06:21:00,2026-04-26 12:52:48,6.53
+156,Finance,Intern,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-08-16 18:18:00,,
+157,Operations,Intern,Software installation failed,Employee is facing an issue while using or installing software.,Software,High,Open,2026-07-26 10:55:00,,
+158,Marketing,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-09-13 07:44:00,2026-09-14 08:56:00,25.2
+159,HR,Contract,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-03-07 03:31:00,,
+160,Marketing,Permanent,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-04-23 17:37:00,2026-04-23 21:43:36,4.11
+161,Marketing,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Open,2026-01-26 04:31:00,,
+162,IT,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Open,2026-01-17 22:33:00,,
+163,IT,Contract,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-07-11 15:50:00,,
+164,Finance,Permanent,Account is locked,Employee is unable to access or use their account.,Account,Low,In Progress,2026-06-25 04:47:00,,
+165,Finance,Contract,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-06-04 19:43:00,2026-06-04 21:53:48,2.18
+166,HR,Intern,User account is not working,Employee is unable to access or use their account.,Account,High,Resolved,2026-08-01 00:27:00,2026-08-01 03:06:36,2.66
+167,Sales,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-03-13 03:54:00,,
+168,Marketing,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-05-09 12:44:00,,
+169,Operations,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-08-01 15:32:00,,
+170,Marketing,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-02-08 10:29:00,2026-02-08 17:37:24,7.14
+171,IT,Permanent,Application is crashing,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-01-15 19:13:00,2026-01-16 18:57:24,23.74
+172,HR,Contract,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-03-13 02:17:00,,
+173,Marketing,Permanent,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-03-03 22:20:00,2026-03-04 06:45:48,8.43
+174,Sales,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-02-11 22:06:00,,
+175,Finance,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-01-20 22:01:00,,
+176,Marketing,Intern,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-03-23 06:02:00,,
+177,Operations,Intern,Unable to open software,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-07-07 04:27:00,,
+178,HR,Intern,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-05-17 08:22:00,,
+179,Finance,Permanent,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,High,Open,2026-08-12 23:08:00,,
+180,IT,Intern,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-01-15 01:10:00,,
+181,Operations,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,Open,2026-05-03 10:14:00,,
+182,Sales,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-04-29 23:38:00,,
+183,Marketing,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-01-14 14:15:00,,
+184,IT,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-08-15 13:14:00,2026-08-15 18:23:36,5.16
+185,Finance,Contract,Password reset required,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-06-30 22:08:00,2026-07-02 07:18:48,33.18
+186,Marketing,Intern,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-07-02 06:35:00,2026-07-04 04:07:24,45.54
+187,Operations,Intern,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-04-25 10:49:00,,
+188,IT,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-07-16 12:42:00,2026-07-16 21:27:00,8.75
+189,Finance,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-03-05 23:48:00,,
+190,Finance,Intern,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-09-17 23:48:00,,
+191,HR,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-06-13 11:55:00,2026-06-14 03:12:24,15.29
+192,Sales,Intern,Unable to login,Employee is unable to access or use their account.,Account,Low,Open,2026-06-26 01:21:00,,
+193,HR,Permanent,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-08-14 12:31:00,2026-08-15 01:20:12,12.82
+194,HR,Intern,Software shows an error,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-07-24 17:04:00,,
+195,Finance,Intern,Application is crashing,Employee is facing an issue while using or installing software.,Software,High,Open,2026-08-24 14:44:00,,
+196,Sales,Intern,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-07-01 05:02:00,2026-07-03 03:27:48,46.43
+197,Operations,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-08-13 12:06:00,,
+198,Finance,Contract,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-04-26 06:57:00,,
+199,IT,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,High,Resolved,2026-06-02 16:04:00,2026-06-04 14:57:24,46.89
+200,IT,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,High,In Progress,2026-08-06 15:42:00,,
+201,IT,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-04-04 18:37:00,2026-04-05 16:28:00,21.85
+202,Sales,Contract,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-07-22 09:34:00,2026-07-23 06:14:12,20.67
+203,Finance,Contract,Password reset required,Employee is unable to access or use their account.,Account,Low,Open,2026-04-20 19:56:00,,
+204,IT,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-01-18 08:05:00,,
+205,Sales,Contract,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,High,In Progress,2026-03-14 01:17:00,,
+206,Marketing,Contract,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-02-08 12:26:00,,
+207,Finance,Permanent,Software installation failed,Employee is facing an issue while using or installing software.,Software,High,Open,2026-05-31 17:27:00,,
+208,Marketing,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-02-19 10:06:00,,
+209,HR,Intern,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-06-29 12:00:00,,
+210,Marketing,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Open,2026-03-02 19:59:00,,
+211,HR,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Open,2026-06-24 16:07:00,,
+212,HR,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,High,Open,2026-06-11 06:06:00,,
+213,Operations,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-07-27 23:10:00,,
+214,Marketing,Contract,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,Open,2026-01-03 22:49:00,,
+215,HR,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,High,In Progress,2026-06-12 15:42:00,,
+216,Operations,Permanent,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-06-01 17:45:00,2026-06-03 02:00:00,32.25
+217,Operations,Contract,Account is locked,Employee is unable to access or use their account.,Account,High,In Progress,2026-08-25 23:17:00,,
+218,IT,Permanent,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-01-30 23:00:00,,
+219,Finance,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,High,Open,2026-08-15 05:28:00,,
+220,HR,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-06-05 21:55:00,2026-06-06 19:16:00,21.35
+221,Marketing,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-04-09 18:25:00,2026-04-10 08:34:36,14.16
+222,Finance,Contract,Software shows an error,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-08-10 08:29:00,2026-08-12 02:33:48,42.08
+223,Operations,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-01-22 05:03:00,,
+224,IT,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,High,Resolved,2026-01-15 09:10:00,2026-01-15 19:55:36,10.76
+225,Finance,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-02-27 01:04:00,2026-02-28 05:15:24,28.19
+226,Sales,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-03-18 19:43:00,,
+227,IT,Intern,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-02-25 06:50:00,,
+228,Finance,Intern,Application is crashing,Employee is facing an issue while using or installing software.,Software,High,Open,2026-04-27 03:56:00,,
+229,Finance,Contract,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-01-27 14:40:00,,
+230,IT,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-07-11 18:16:00,2026-07-11 18:47:12,0.52
+231,Sales,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-08-05 15:20:00,,
+232,Operations,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-06-17 03:15:00,,
+233,IT,Contract,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-05-04 09:53:00,2026-05-05 23:07:24,37.24
+234,Marketing,Contract,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-02-25 07:01:00,2026-02-27 03:23:12,44.37
+235,IT,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Open,2026-04-05 04:46:00,,
+236,HR,Contract,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-05-20 12:31:00,2026-05-20 22:25:00,9.9
+237,Sales,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,Resolved,2026-06-01 22:35:00,2026-06-02 09:07:24,10.54
+238,Marketing,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-01-13 00:39:00,,
+239,Operations,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-07-08 12:58:00,2026-07-08 16:20:12,3.37
+240,Marketing,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-02-04 11:25:00,2026-02-06 07:55:00,44.5
+241,Marketing,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-03-06 06:19:00,,
+242,Finance,Permanent,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,High,Open,2026-02-18 19:44:00,,
+243,Operations,Contract,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-09-21 19:25:00,,
+244,Finance,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-04-23 16:59:00,,
+245,IT,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-07-03 12:11:00,,
+246,Operations,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-04-21 17:41:00,,
+247,Operations,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Open,2026-04-02 02:31:00,,
+248,Finance,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-08-25 23:04:00,,
+249,Sales,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-02-21 20:43:00,2026-02-22 10:18:24,13.59
+250,IT,Intern,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-04-05 04:20:00,,
+251,IT,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-03-02 11:44:00,2026-03-04 01:20:36,37.61
+252,Sales,Contract,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-04-09 06:46:00,,
+253,HR,Permanent,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-04-09 09:33:00,,
+254,IT,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-08-21 17:05:00,,
+255,Finance,Permanent,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-04-07 12:11:00,,
+256,Marketing,Permanent,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-07-01 15:45:00,,
+257,Operations,Permanent,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-01-08 06:00:00,2026-01-09 15:30:00,33.5
+258,Operations,Intern,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-09-11 06:21:00,2026-09-11 22:46:48,16.43
+259,Marketing,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-08-16 17:01:00,,
+260,Marketing,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-08-21 04:17:00,2026-08-21 06:33:12,2.27
+261,Finance,Contract,Password reset required,Employee is unable to access or use their account.,Account,Low,Open,2026-01-29 19:15:00,,
+262,Operations,Contract,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Low,In Progress,2026-07-22 19:17:00,,
+263,IT,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-01-12 05:40:00,,
+264,IT,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-04-28 22:24:00,,
+265,Operations,Permanent,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-01-01 09:46:00,2026-01-02 08:17:12,22.52
+266,IT,Permanent,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-02-28 05:13:00,2026-02-28 22:19:00,17.1
+267,Finance,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-04-27 13:23:00,,
+268,HR,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-09-02 06:40:00,,
+269,Operations,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-03-07 17:58:00,,
+270,Marketing,Permanent,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-08-01 11:19:00,,
+271,IT,Contract,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-03-23 04:07:00,,
+272,Marketing,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-07-19 02:02:00,2026-07-21 00:30:12,46.47
+273,Finance,Contract,Mailbox is full,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-04-09 21:48:00,2026-04-10 20:47:24,22.99
+274,Marketing,Contract,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-02-11 20:05:00,,
+275,Marketing,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-05-13 14:07:00,,
+276,HR,Contract,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-04-15 02:56:00,,
+277,Marketing,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,High,Open,2026-08-13 13:14:00,,
+278,Marketing,Contract,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-01-12 14:51:00,2026-01-14 14:25:48,47.58
+279,IT,Intern,Need access to employee account,Employee is unable to access or use their account.,Account,High,Open,2026-05-24 09:49:00,,
+280,Marketing,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-01-29 06:05:00,,
+281,Marketing,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-06-08 12:46:00,2026-06-08 13:38:12,0.87
+282,Sales,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-05-04 16:31:00,,
+283,Operations,Permanent,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,High,Open,2026-05-18 04:56:00,,
+284,Marketing,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-09-18 05:28:00,,
+285,Marketing,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-06-09 23:38:00,2026-06-11 07:47:00,32.15
+286,Operations,Contract,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-01-05 22:20:00,,
+287,Sales,Permanent,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-01-05 07:43:00,2026-01-05 15:59:12,8.27
+288,Finance,Permanent,Email is not syncing,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-01-10 22:05:00,,
+289,IT,Permanent,Application is crashing,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-03-06 09:59:00,,
+290,HR,Contract,User account is not working,Employee is unable to access or use their account.,Account,Low,In Progress,2026-06-29 20:22:00,,
+291,Marketing,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,Resolved,2026-04-15 12:28:00,2026-04-16 19:04:36,30.61
+292,IT,Intern,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-07-12 18:08:00,,
+293,Finance,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-01-02 02:08:00,,
+294,Marketing,Permanent,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-03-17 18:59:00,,
+295,Marketing,Intern,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-02-25 21:57:00,2026-02-26 12:40:48,14.73
+296,Finance,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-06-18 22:04:00,,
+297,Marketing,Intern,Password reset required,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-05-12 00:56:00,2026-05-14 00:11:00,47.25
+298,Sales,Contract,Unable to send email,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-04-02 17:40:00,,
+299,Marketing,Intern,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,In Progress,2026-01-15 21:18:00,,
+300,HR,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-08-01 23:23:00,,
+301,IT,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-02-25 09:36:00,,
+302,Finance,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-02-14 16:10:00,,
+303,HR,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-04-11 10:24:00,,
+304,Operations,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-03-14 11:11:00,,
+305,Finance,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-05-12 02:03:00,,
+306,Operations,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-07-26 07:25:00,2026-07-27 13:26:48,30.03
+307,IT,Intern,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-06-10 18:43:00,,
+308,Marketing,Intern,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-08-06 23:27:00,2026-08-07 16:13:12,16.77
+309,Marketing,Contract,Email is not syncing,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-03-05 12:40:00,2026-03-07 03:02:12,38.37
+310,Sales,Contract,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-03-14 02:32:00,,
+311,Finance,Contract,Software installation failed,Employee is facing an issue while using or installing software.,Software,High,In Progress,2026-01-10 09:25:00,,
+312,Sales,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-08-16 13:01:00,2026-08-17 17:26:48,28.43
+313,Operations,Intern,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-04-10 12:33:00,2026-04-10 14:30:00,1.95
+314,Sales,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-08-27 05:16:00,2026-08-28 21:44:12,40.47
+315,HR,Contract,Software installation failed,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-02-02 22:18:00,,
+316,Finance,Intern,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-05-09 10:08:00,,
+317,Finance,Intern,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Low,In Progress,2026-09-10 01:23:00,,
+318,IT,Permanent,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-09-10 10:49:00,2026-09-11 14:08:48,27.33
+319,Operations,Contract,Password reset required,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-06-15 14:10:00,2026-06-16 01:00:24,10.84
+320,Marketing,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-06-04 17:58:00,,
+321,Marketing,Intern,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-04-01 06:20:00,2026-04-01 11:30:48,5.18
+322,Sales,Permanent,Account is locked,Employee is unable to access or use their account.,Account,Low,Resolved,2026-04-28 01:12:00,2026-04-28 05:19:48,4.13
+323,Finance,Intern,Password reset required,Employee is unable to access or use their account.,Account,Low,Open,2026-02-25 02:59:00,,
+324,IT,Contract,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-04-01 16:57:00,2026-04-02 05:21:00,12.4
+325,Finance,Intern,Email is not syncing,Employee is experiencing a problem with their email service.,Email,Medium,In Progress,2026-03-16 08:21:00,,
+326,HR,Permanent,Password reset required,Employee is unable to access or use their account.,Account,High,In Progress,2026-05-24 17:47:00,,
+327,Marketing,Permanent,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-04-27 12:39:00,,
+328,Marketing,Contract,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-06-30 08:10:00,,
+329,Finance,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-06-11 22:34:00,2026-06-13 07:38:48,33.08
+330,Finance,Contract,Software shows an error,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-02-21 05:04:00,,
+331,HR,Contract,Unable to login,Employee is unable to access or use their account.,Account,Medium,In Progress,2026-04-30 07:44:00,,
+332,Finance,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-03-23 08:59:00,,
+333,Sales,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-05-17 04:46:00,,
+334,Marketing,Intern,Unable to login,Employee is unable to access or use their account.,Account,Low,Resolved,2026-01-28 00:31:00,2026-01-28 18:48:24,18.29
+335,HR,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-02-14 22:36:00,2026-02-16 19:28:12,44.87
+336,Operations,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-03-25 15:50:00,,
+337,HR,Intern,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Low,Open,2026-04-07 13:53:00,,
+338,IT,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-04-29 15:34:00,2026-04-30 13:22:36,21.81
+339,Sales,Permanent,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Resolved,2026-03-11 23:12:00,2026-03-13 13:29:24,38.29
+340,Marketing,Intern,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-01-25 17:36:00,,
+341,HR,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-07-07 02:40:00,2026-07-07 11:41:12,9.02
+342,Operations,Contract,Application is crashing,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-08-12 14:37:00,,
+343,Sales,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-07-29 07:09:00,,
+344,Marketing,Contract,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,In Progress,2026-08-25 15:00:00,,
+345,Finance,Intern,Unable to login,Employee is unable to access or use their account.,Account,Medium,Open,2026-03-19 20:29:00,,
+346,HR,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-08-15 04:19:00,,
+347,HR,Contract,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-03-04 22:57:00,,
+348,HR,Permanent,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Resolved,2026-06-27 11:46:00,2026-06-28 13:38:12,25.87
+349,Marketing,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Low,In Progress,2026-03-08 15:18:00,,
+350,HR,Intern,User account is not working,Employee is unable to access or use their account.,Account,Low,Open,2026-04-07 04:04:00,,
+351,Operations,Permanent,Unable to send email,Employee is experiencing a problem with their email service.,Email,Low,Open,2026-05-11 00:48:00,,
+352,IT,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-08-12 10:31:00,,
+353,HR,Contract,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-04-17 09:40:00,2026-04-18 14:24:24,28.74
+354,HR,Intern,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-06-22 07:35:00,2026-06-23 00:30:12,16.92
+355,Finance,Intern,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-02-12 21:42:00,,
+356,Finance,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,Open,2026-07-21 21:16:00,,
+357,Operations,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-07-26 19:35:00,2026-07-27 23:09:48,27.58
+358,Marketing,Permanent,Software installation failed,Employee is facing an issue while using or installing software.,Software,High,In Progress,2026-01-29 22:07:00,,
+359,Finance,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,In Progress,2026-01-16 22:12:00,,
+360,Operations,Contract,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-04-22 06:13:00,,
+361,Finance,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-05-18 11:42:00,,
+362,Sales,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-04-15 05:05:00,,
+363,Sales,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-07-06 15:31:00,2026-07-07 06:16:00,14.75
+364,Operations,Contract,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-07-11 20:34:00,2026-07-12 19:44:12,23.17
+365,Operations,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-09-24 17:33:00,,
+366,Sales,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-02-14 01:25:00,2026-02-15 00:31:00,23.1
+367,IT,Contract,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-06-15 14:39:00,,
+368,IT,Intern,Unable to send email,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-09-11 00:49:00,,
+369,Finance,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-03-20 08:37:00,,
+370,Marketing,Contract,Unable to send email,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-04-16 20:45:00,2026-04-18 16:33:36,43.81
+371,Sales,Permanent,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Low,Resolved,2026-03-13 06:45:00,2026-03-13 22:48:36,16.06
+372,Finance,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-01-15 23:46:00,2026-01-16 23:28:00,23.7
+373,HR,Contract,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-03-23 01:19:00,,
+374,Sales,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-03-15 12:06:00,,
+375,Sales,Intern,User account is not working,Employee is unable to access or use their account.,Account,Medium,In Progress,2026-09-25 14:58:00,,
+376,Finance,Intern,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,High,Resolved,2026-02-07 19:50:00,2026-02-08 00:12:12,4.37
+377,Operations,Permanent,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-09-11 01:39:00,2026-09-12 09:01:12,31.37
+378,Operations,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Open,2026-08-30 08:47:00,,
+379,Marketing,Intern,Unable to send email,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-06-20 01:51:00,,
+380,Sales,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Open,2026-08-27 01:20:00,,
+381,Finance,Intern,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-01-15 01:29:00,2026-01-16 16:58:24,39.49
+382,Sales,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-04-11 12:25:00,2026-04-12 10:41:12,22.27
+383,Operations,Intern,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-07-08 02:46:00,,
+384,Operations,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,In Progress,2026-02-05 08:06:00,,
+385,IT,Permanent,Software installation failed,Employee is facing an issue while using or installing software.,Software,Low,Resolved,2026-09-24 23:15:00,2026-09-26 06:19:48,31.08
+386,Operations,Contract,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-04-11 05:17:00,2026-04-13 00:23:00,43.1
+387,Sales,Intern,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-07-27 04:39:00,,
+388,Operations,Permanent,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-05-22 20:11:00,,
+389,IT,Intern,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-04-11 21:22:00,2026-04-11 22:01:36,0.66
+390,Sales,Contract,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,High,Resolved,2026-05-24 18:29:00,2026-05-25 07:20:00,12.85
+391,Sales,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,High,Open,2026-05-12 21:14:00,,
+392,Finance,Intern,Password reset required,Employee is unable to access or use their account.,Account,Medium,In Progress,2026-06-23 21:49:00,,
+393,Marketing,Permanent,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-02-13 00:18:00,,
+394,HR,Intern,Unable to send email,Employee is experiencing a problem with their email service.,Email,Low,In Progress,2026-08-24 21:12:00,,
+395,IT,Intern,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-09-08 16:23:00,2026-09-09 03:50:36,11.46
+396,Operations,Intern,Email is not syncing,Employee is experiencing a problem with their email service.,Email,High,Open,2026-01-31 17:28:00,,
+397,Finance,Permanent,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,Open,2026-01-12 17:23:00,,
+398,HR,Contract,User account is not working,Employee is unable to access or use their account.,Account,Low,Open,2026-01-16 03:34:00,,
+399,Finance,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-08-25 19:19:00,2026-08-26 01:14:48,5.93
+400,HR,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-01-18 03:41:00,2026-01-19 08:11:36,28.51
+401,Marketing,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Medium,In Progress,2026-04-28 08:50:00,,
+402,Marketing,Contract,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-07-09 17:43:00,,
+403,Operations,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-04-05 04:18:00,2026-04-06 20:17:24,39.99
+404,HR,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-08-02 14:07:00,2026-08-03 14:26:12,24.32
+405,Operations,Permanent,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,Medium,In Progress,2026-02-05 13:47:00,,
+406,HR,Intern,Unable to send email,Employee is experiencing a problem with their email service.,Email,High,Open,2026-05-29 01:28:00,,
+407,Sales,Contract,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-09-12 17:26:00,,
+408,IT,Contract,Unable to login,Employee is unable to access or use their account.,Account,High,In Progress,2026-07-14 06:50:00,,
+409,Operations,Intern,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-02-23 01:31:00,,
+410,Finance,Permanent,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-08-26 04:04:00,,
+411,IT,Intern,Security warning appeared,Employee reported a possible security-related issue that requires investigation.,Security,High,Resolved,2026-03-12 12:23:00,2026-03-13 00:59:36,12.61
+412,Finance,Intern,Email is not syncing,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-07-20 04:01:00,2026-07-21 14:46:00,34.75
+413,Finance,Permanent,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Resolved,2026-07-28 20:02:00,2026-07-30 06:18:12,34.27
+414,Marketing,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-04-14 11:30:00,,
+415,IT,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,High,In Progress,2026-05-12 14:30:00,,
+416,IT,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Medium,Resolved,2026-03-10 10:55:00,2026-03-11 23:50:48,36.93
+417,Sales,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-02-01 16:45:00,,
+418,IT,Intern,Unable to send email,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-06-16 00:42:00,2026-06-17 16:10:48,39.48
+419,Sales,Permanent,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-05-10 07:59:00,,
+420,Marketing,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,Low,In Progress,2026-09-23 20:28:00,,
+421,Operations,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,Medium,Open,2026-01-25 11:10:00,,
+422,HR,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-08-28 11:03:00,,
+423,IT,Permanent,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,In Progress,2026-04-18 16:46:00,,
+424,HR,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-09-28 15:18:00,2026-09-29 10:03:36,18.76
+425,HR,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-04-10 12:18:00,2026-04-12 01:40:12,37.37
+426,Marketing,Permanent,Unable to login,Employee is unable to access or use their account.,Account,High,In Progress,2026-08-07 04:08:00,,
+427,Marketing,Intern,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-06-24 08:23:00,2026-06-25 18:59:36,34.61
+428,Marketing,Intern,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Open,2026-02-08 02:36:00,,
+429,HR,Permanent,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-02-21 18:46:00,2026-02-23 06:15:24,35.49
+430,Marketing,Intern,Unable to login,Employee is unable to access or use their account.,Account,High,In Progress,2026-03-26 07:53:00,,
+431,Sales,Permanent,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-08-11 18:11:00,,
+432,IT,Intern,Application is crashing,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-05-07 06:53:00,,
+433,Sales,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-04-01 16:26:00,2026-04-03 05:27:12,37.02
+434,Marketing,Permanent,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-02-18 15:53:00,,
+435,HR,Permanent,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-02-05 01:18:00,,
+436,Operations,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,Resolved,2026-04-01 15:23:00,2026-04-03 05:48:48,38.43
+437,IT,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-06-01 08:53:00,,
+438,Sales,Contract,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-08-23 03:18:00,,
+439,IT,Permanent,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,High,In Progress,2026-08-08 14:19:00,,
+440,HR,Contract,Unable to open software,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-06-14 08:58:00,,
+441,IT,Contract,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-02-14 22:21:00,2026-02-15 08:30:00,10.15
+442,HR,Intern,Unable to send email,Employee is experiencing a problem with their email service.,Email,Medium,Open,2026-09-11 15:39:00,,
+443,Finance,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-02-26 11:41:00,,
+444,Marketing,Intern,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Low,Resolved,2026-07-29 17:40:00,2026-07-30 20:50:48,27.18
+445,Finance,Contract,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-07-31 04:09:00,2026-07-31 20:36:00,16.45
+446,Sales,Contract,Unable to receive emails,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-06-30 01:13:00,,
+447,Sales,Intern,Keyboard is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-06-05 05:50:00,,
+448,Operations,Contract,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Open,2026-06-28 03:37:00,,
+449,IT,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Open,2026-08-02 18:24:00,,
+450,Sales,Intern,Suspicious email received,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-03-02 14:13:00,,
+451,Operations,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-06-04 08:55:00,,
+452,Sales,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Low,Open,2026-05-29 11:01:00,,
+453,Sales,Intern,Password reset required,Employee is unable to access or use their account.,Account,High,In Progress,2026-03-08 21:34:00,,
+454,IT,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Resolved,2026-04-26 07:47:00,2026-04-27 03:16:24,19.49
+455,Marketing,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-08-02 02:30:00,,
+456,Marketing,Contract,Need access to employee account,Employee is unable to access or use their account.,Account,Low,Resolved,2026-08-04 19:47:00,2026-08-04 22:32:00,2.75
+457,Operations,Permanent,Unable to open software,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-04-16 13:09:00,,
+458,IT,Permanent,User account is not working,Employee is unable to access or use their account.,Account,Medium,In Progress,2026-01-08 11:24:00,,
+459,Operations,Permanent,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-03-19 23:12:00,,
+460,Marketing,Intern,Software shows an error,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-09-27 06:35:00,2026-09-28 23:03:48,40.48
+461,Finance,Intern,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-05-16 13:07:00,2026-05-17 04:07:36,15.01
+462,IT,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,In Progress,2026-06-23 01:49:00,,
+463,IT,Intern,Password reset required,Employee is unable to access or use their account.,Account,Low,Resolved,2026-07-08 09:40:00,2026-07-10 08:01:36,46.36
+464,Operations,Intern,WiFi is not connecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Open,2026-06-07 15:36:00,,
+465,HR,Permanent,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,High,Resolved,2026-04-20 20:38:00,2026-04-21 05:53:00,9.25
+466,Finance,Permanent,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Low,Open,2026-01-25 19:46:00,,
+467,HR,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-09-18 10:16:00,2026-09-19 19:34:00,33.3
+468,Operations,Permanent,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-05-19 20:22:00,,
+469,Marketing,Intern,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-08-07 01:08:00,,
+470,Operations,Permanent,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,Open,2026-02-09 03:09:00,,
+471,Sales,Intern,Unauthorized login detected,Employee reported a possible security-related issue that requires investigation.,Security,Medium,Resolved,2026-09-12 18:30:00,2026-09-13 23:03:00,28.55
+472,Marketing,Intern,Application is crashing,Employee is facing an issue while using or installing software.,Software,High,Open,2026-07-28 01:02:00,,
+473,Finance,Contract,Mailbox is full,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-05-17 19:04:00,,
+474,Sales,Contract,Monitor is not displaying properly,Employee reported a hardware-related problem with the workstation.,Hardware,Medium,In Progress,2026-05-10 20:57:00,,
+475,Sales,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,Open,2026-04-04 13:05:00,,
+476,HR,Contract,Account is locked,Employee is unable to access or use their account.,Account,High,Open,2026-07-29 10:32:00,,
+477,HR,Contract,Unable to send email,Employee is experiencing a problem with their email service.,Email,High,In Progress,2026-01-26 22:46:00,,
+478,Finance,Contract,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,Open,2026-01-10 09:35:00,,
+479,IT,Intern,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Medium,Resolved,2026-01-09 22:12:00,2026-01-11 21:29:24,47.29
+480,Sales,Contract,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-09-09 13:26:00,2026-09-10 02:38:36,13.21
+481,Finance,Permanent,Possible phishing email,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-03-31 15:44:00,,
+482,Finance,Permanent,Unable to send email,Employee is experiencing a problem with their email service.,Email,Low,In Progress,2026-07-01 21:57:00,,
+483,Operations,Contract,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-01-04 23:51:00,2026-01-05 10:47:24,10.94
+484,HR,Permanent,Application is running slowly,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-06-18 11:42:00,2026-06-19 17:29:24,29.79
+485,Marketing,Intern,Network connection keeps disconnecting,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-02-03 04:02:00,,
+486,Sales,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,High,Resolved,2026-02-12 10:19:00,2026-02-12 17:10:00,6.85
+487,IT,Intern,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Resolved,2026-01-07 11:51:00,2026-01-08 20:12:00,32.35
+488,Finance,Contract,Application is crashing,Employee is facing an issue while using or installing software.,Software,Medium,In Progress,2026-01-20 05:51:00,,
+489,Sales,Contract,User account is not working,Employee is unable to access or use their account.,Account,High,In Progress,2026-08-27 22:18:00,,
+490,Sales,Contract,User account is not working,Employee is unable to access or use their account.,Account,High,Open,2026-01-24 06:32:00,,
+491,Finance,Permanent,Need to report a security issue,Employee reported a possible security-related issue that requires investigation.,Security,Medium,In Progress,2026-09-06 05:18:00,,
+492,Finance,Contract,VPN is not working,Employee is facing a network connectivity problem and needs technical assistance.,Network,Medium,In Progress,2026-04-23 13:04:00,,
+493,Sales,Contract,Mouse is not responding,Employee reported a hardware-related problem with the workstation.,Hardware,High,In Progress,2026-07-28 17:29:00,,
+494,Operations,Permanent,Application is running slowly,Employee is facing an issue while using or installing software.,Software,Low,In Progress,2026-08-12 14:12:00,,
+495,HR,Contract,Unable to access office network,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,In Progress,2026-04-19 13:04:00,,
+496,Operations,Permanent,Printer is not working,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-05-25 08:56:00,,
+497,Finance,Intern,Email attachment is not opening,Employee is experiencing a problem with their email service.,Email,Low,Open,2026-07-24 04:22:00,,
+498,HR,Contract,Software installation failed,Employee is facing an issue while using or installing software.,Software,High,Resolved,2026-07-18 13:08:00,2026-07-18 13:50:36,0.71
+499,HR,Intern,Laptop is not turning on,Employee reported a hardware-related problem with the workstation.,Hardware,Low,In Progress,2026-08-18 09:25:00,,
+500,Sales,Intern,Internet connection is very slow,Employee is facing a network connectivity problem and needs technical assistance.,Network,Low,Open,2026-09-14 15:24:00,,

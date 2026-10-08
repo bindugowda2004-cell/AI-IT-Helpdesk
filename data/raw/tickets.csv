@@ -1,0 +1,501 @@
+ticket_id,employee_name,department,employee_type,subject,description,category,priority,status,created_at,resolved_at,resolution_time_hours
+1,Employee_37,Sales,Permanent,Internet connection is very slow,Internet connection is very slow,Network,High,Resolved,2026-09-05 06:13:51,2026-09-05 17:06:39,10.88
+2,Employee_47,Finance,Intern,Software is showing an error,Software is showing an error,Software,Medium,Open,2026-04-25 12:29:51,,27.75
+3,Employee_48,HR,Intern,Mouse is not responding,Mouse is not responding,Hardware,Low,Resolved,2026-07-03 08:02:51,2026-07-04 06:50:51,22.8
+4,Employee_41,Finance,Contract,Application is crashing,Application is crashing,Software,Medium,In Progress,2026-05-09 20:05:51,,22.59
+5,Employee_86,Finance,Intern,Unable to send email,Unable to send email,Email,High,Resolved,2026-08-23 19:18:51,2026-08-23 20:29:03,1.17
+6,Employee_90,Finance,Intern,Keyboard is not working,Keyboard is not working,Hardware,High,Resolved,2026-04-29 15:04:51,2026-04-30 13:16:15,22.19
+7,Employee_65,IT,Contract,Unable to send email,Unable to send email,Email,High,In Progress,2026-05-24 10:43:51,,38.23
+8,Employee_63,Sales,Intern,Software is showing an error,Software is showing an error,Software,High,In Progress,2026-09-24 03:08:51,,4.46
+9,Employee_40,Operations,Contract,VPN is not working,VPN is not working,Network,Low,In Progress,2026-05-31 18:49:51,,22.99
+10,Employee_27,Operations,Intern,Security alert received,Security alert received,Security,Low,Resolved,2026-07-17 02:38:51,2026-07-18 05:40:03,27.02
+11,Employee_56,HR,Intern,Antivirus warning appeared,Antivirus warning appeared,Security,High,In Progress,2026-08-09 04:58:51,,16.4
+12,Employee_86,Marketing,Contract,Unable to send email,Unable to send email,Email,Low,Open,2026-09-15 04:33:51,,26.77
+13,Employee_62,IT,Intern,Unable to receive email,Unable to receive email,Email,Low,Resolved,2026-09-18 15:21:51,2026-09-20 12:14:03,44.87
+14,Employee_29,IT,Contract,Antivirus warning appeared,Antivirus warning appeared,Security,Medium,In Progress,2026-04-11 19:09:51,,17.86
+15,Employee_4,Operations,Permanent,VPN is not working,VPN is not working,Network,High,Resolved,2026-09-28 11:14:51,2026-09-28 14:35:51,3.35
+16,Employee_62,Finance,Intern,Application is running slowly,Application is running slowly,Software,High,Resolved,2026-04-29 21:56:51,2026-05-01 19:53:15,45.94
+17,Employee_93,Sales,Contract,Suspicious email received,Suspicious email received,Security,Low,In Progress,2026-09-26 19:56:51,,44.03
+18,Employee_4,Operations,Permanent,Email is not syncing,Email is not syncing,Email,High,Resolved,2026-09-29 07:11:51,2026-09-30 02:19:03,19.12
+19,Employee_91,HR,Permanent,Account is locked,Account is locked,Account,High,Open,2026-06-16 02:44:51,,46.0
+20,Employee_34,Sales,Contract,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,High,Resolved,2026-04-19 22:04:51,2026-04-21 21:42:03,47.62
+21,Employee_46,HR,Contract,Outlook is not opening,Outlook is not opening,Email,Low,In Progress,2026-05-28 06:32:51,,18.14
+22,Employee_65,Sales,Permanent,User account is not working,User account is not working,Account,Low,In Progress,2026-08-25 13:40:51,,41.78
+23,Employee_33,Finance,Permanent,Unable to access office network,Unable to access office network,Network,Low,Open,2026-05-11 18:44:51,,19.54
+24,Employee_35,Finance,Permanent,Laptop is not turning on,Laptop is not turning on,Hardware,Low,Open,2026-06-15 22:01:51,,21.12
+25,Employee_85,HR,Contract,Account is locked,Account is locked,Account,Low,Open,2026-07-20 09:32:51,,40.36
+26,Employee_47,Sales,Contract,Antivirus warning appeared,Antivirus warning appeared,Security,Low,Open,2026-05-24 18:27:51,,20.58
+27,Employee_11,Operations,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Low,Open,2026-06-11 17:57:51,,38.45
+28,Employee_87,HR,Intern,Unable to receive email,Unable to receive email,Email,High,In Progress,2026-05-29 20:20:51,,31.75
+29,Employee_93,Marketing,Intern,Unable to open application,Unable to open application,Software,Low,Resolved,2026-07-03 14:52:51,2026-07-04 05:04:51,14.2
+30,Employee_58,HR,Permanent,Software is showing an error,Software is showing an error,Software,Low,Open,2026-06-21 19:35:51,,2.14
+31,Employee_87,Marketing,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Low,Resolved,2026-08-02 10:39:51,2026-08-04 10:35:39,47.93
+32,Employee_35,Finance,Permanent,Unauthorized login detected,Unauthorized login detected,Security,High,Resolved,2026-04-21 12:25:51,2026-04-23 01:09:39,36.73
+33,Employee_30,Sales,Permanent,Unable to access office network,Unable to access office network,Network,High,Resolved,2026-04-09 20:28:51,2026-04-10 11:29:27,15.01
+34,Employee_35,IT,Permanent,Software installation failed,Software installation failed,Software,Low,In Progress,2026-05-12 20:13:51,,28.02
+35,Employee_9,Marketing,Contract,Unable to open application,Unable to open application,Software,High,Open,2026-08-14 01:26:51,,45.94
+36,Employee_33,IT,Intern,Email attachment is not working,Email attachment is not working,Email,High,In Progress,2026-06-04 20:33:51,,31.34
+37,Employee_94,Finance,Intern,Internet connection is very slow,Internet connection is very slow,Network,Low,In Progress,2026-07-08 17:04:51,,32.59
+38,Employee_75,Marketing,Permanent,VPN is not working,VPN is not working,Network,Low,Open,2026-07-30 17:10:51,,6.05
+39,Employee_85,IT,Contract,Software is showing an error,Software is showing an error,Software,Low,Open,2026-05-02 05:33:51,,37.21
+40,Employee_29,IT,Intern,Unable to login,Unable to login,Account,High,Open,2026-09-13 08:37:51,,19.29
+41,Employee_46,Marketing,Contract,Unable to open application,Unable to open application,Software,Low,Open,2026-07-26 04:50:51,,23.56
+42,Employee_66,Operations,Permanent,Software is showing an error,Software is showing an error,Software,Medium,Open,2026-07-13 14:43:51,,15.24
+43,Employee_5,HR,Contract,Unauthorized login detected,Unauthorized login detected,Security,Medium,Open,2026-07-29 20:21:51,,34.3
+44,Employee_69,Marketing,Permanent,Email attachment is not working,Email attachment is not working,Email,High,Resolved,2026-09-20 01:13:51,2026-09-20 20:29:27,19.26
+45,Employee_56,HR,Permanent,Application is crashing,Application is crashing,Software,Medium,Resolved,2026-05-09 15:31:51,2026-05-10 00:07:51,8.6
+46,Employee_86,Marketing,Permanent,Unable to access office network,Unable to access office network,Network,High,In Progress,2026-05-17 18:48:51,,2.58
+47,Employee_17,Sales,Intern,Need access to account,Need access to account,Account,High,Resolved,2026-05-14 21:41:51,2026-05-15 13:50:15,16.14
+48,Employee_35,IT,Contract,Mouse is not responding,Mouse is not responding,Hardware,High,In Progress,2026-09-11 09:42:51,,32.47
+49,Employee_20,Operations,Intern,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Low,Open,2026-09-08 19:15:51,,2.01
+50,Employee_48,Marketing,Contract,Password reset required,Password reset required,Account,High,Open,2026-07-16 00:47:51,,12.52
+51,Employee_96,IT,Intern,Application is crashing,Application is crashing,Software,Medium,Open,2026-06-08 02:02:51,,25.63
+52,Employee_59,IT,Intern,Printer is not working,Printer is not working,Hardware,High,Resolved,2026-07-15 04:18:51,2026-07-15 17:21:15,13.04
+53,Employee_100,HR,Intern,Password reset required,Password reset required,Account,Low,In Progress,2026-05-05 06:09:51,,18.76
+54,Employee_16,IT,Permanent,Unable to open application,Unable to open application,Software,Low,In Progress,2026-05-28 02:02:51,,41.36
+55,Employee_13,Finance,Intern,Outlook is not opening,Outlook is not opening,Email,Low,Resolved,2026-07-04 14:57:51,2026-07-05 10:03:15,19.09
+56,Employee_21,Finance,Contract,Software is showing an error,Software is showing an error,Software,Low,In Progress,2026-07-18 13:25:51,,0.52
+57,Employee_93,HR,Intern,Email is not syncing,Email is not syncing,Email,High,In Progress,2026-06-23 10:01:51,,34.98
+58,Employee_39,Sales,Permanent,Email is not syncing,Email is not syncing,Email,Low,Open,2026-07-06 00:42:51,,15.68
+59,Employee_94,Finance,Permanent,Keyboard is not working,Keyboard is not working,Hardware,Low,Open,2026-05-22 04:30:51,,45.87
+60,Employee_93,Operations,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,High,Resolved,2026-07-09 18:12:51,2026-07-10 04:21:51,10.15
+61,Employee_44,Sales,Contract,Suspicious email received,Suspicious email received,Security,Low,Open,2026-05-31 14:39:51,,1.33
+62,Employee_46,IT,Permanent,User account is not working,User account is not working,Account,High,Resolved,2026-05-21 19:27:51,2026-05-22 20:26:39,24.98
+63,Employee_8,HR,Contract,Software installation failed,Software installation failed,Software,Low,Resolved,2026-05-20 16:57:51,2026-05-22 13:05:39,44.13
+64,Employee_65,Operations,Contract,Security alert received,Security alert received,Security,Medium,Open,2026-06-25 05:07:51,,19.38
+65,Employee_90,Sales,Contract,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,High,Open,2026-04-27 03:46:51,,9.28
+66,Employee_87,IT,Contract,User account is not working,User account is not working,Account,Low,In Progress,2026-07-18 14:36:51,,35.28
+67,Employee_82,HR,Permanent,Mouse is not responding,Mouse is not responding,Hardware,Medium,Resolved,2026-04-22 11:26:51,2026-04-22 22:50:51,11.4
+68,Employee_92,IT,Intern,Account is locked,Account is locked,Account,Low,Open,2026-08-18 14:54:51,,36.9
+69,Employee_89,HR,Intern,Software is showing an error,Software is showing an error,Software,Medium,Open,2026-07-28 22:27:51,,37.9
+70,Employee_67,Sales,Contract,Application is running slowly,Application is running slowly,Software,Medium,In Progress,2026-04-22 03:25:51,,21.39
+71,Employee_5,Sales,Intern,Unable to open application,Unable to open application,Software,High,In Progress,2026-09-08 07:29:51,,16.13
+72,Employee_91,Finance,Contract,Unable to open application,Unable to open application,Software,Low,Resolved,2026-05-01 23:40:51,2026-05-02 05:04:15,5.39
+73,Employee_45,Finance,Permanent,Unable to send email,Unable to send email,Email,High,Open,2026-09-07 04:36:51,,43.25
+74,Employee_48,IT,Intern,Unable to login,Unable to login,Account,High,In Progress,2026-07-19 16:53:51,,7.0
+75,Employee_50,IT,Contract,Need access to account,Need access to account,Account,Medium,In Progress,2026-09-02 19:50:51,,39.38
+76,Employee_70,HR,Contract,User account is not working,User account is not working,Account,Medium,In Progress,2026-04-09 02:05:51,,18.33
+77,Employee_21,IT,Permanent,Printer is not working,Printer is not working,Hardware,High,In Progress,2026-05-23 12:13:51,,18.07
+78,Employee_28,Marketing,Intern,Password reset required,Password reset required,Account,Low,In Progress,2026-05-23 16:15:51,,40.06
+79,Employee_12,Finance,Contract,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,High,In Progress,2026-06-23 18:45:51,,6.16
+80,Employee_74,Operations,Intern,Keyboard is not working,Keyboard is not working,Hardware,Low,Open,2026-05-08 01:23:51,,36.91
+81,Employee_79,Marketing,Contract,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Medium,Open,2026-04-20 04:02:51,,31.44
+82,Employee_88,Marketing,Permanent,Software is showing an error,Software is showing an error,Software,Low,Open,2026-07-09 22:56:51,,36.14
+83,Employee_53,Finance,Intern,Email is not syncing,Email is not syncing,Email,Medium,In Progress,2026-06-11 11:52:51,,44.58
+84,Employee_65,Sales,Permanent,Unable to access office network,Unable to access office network,Network,Medium,Open,2026-08-13 05:35:51,,42.03
+85,Employee_72,Operations,Contract,Outlook is not opening,Outlook is not opening,Email,High,Open,2026-07-12 17:10:51,,42.09
+86,Employee_15,Sales,Permanent,Need access to account,Need access to account,Account,High,In Progress,2026-08-07 04:18:51,,29.54
+87,Employee_58,Operations,Intern,Need access to account,Need access to account,Account,High,Open,2026-08-27 11:48:51,,3.58
+88,Employee_81,IT,Contract,Application is crashing,Application is crashing,Software,High,In Progress,2026-06-16 01:03:51,,2.02
+89,Employee_17,Operations,Intern,Password reset required,Password reset required,Account,Low,Resolved,2026-05-13 04:09:51,2026-05-14 08:41:03,28.52
+90,Employee_65,Sales,Contract,Software is showing an error,Software is showing an error,Software,High,Resolved,2026-05-13 08:36:51,2026-05-13 13:31:27,4.91
+91,Employee_20,Sales,Contract,Unable to login,Unable to login,Account,Medium,Resolved,2026-05-30 08:02:51,2026-05-30 22:56:51,14.9
+92,Employee_77,Operations,Intern,Need access to account,Need access to account,Account,Low,Open,2026-09-14 13:16:51,,1.26
+93,Employee_51,IT,Permanent,Outlook is not opening,Outlook is not opening,Email,Medium,In Progress,2026-05-21 20:20:51,,46.13
+94,Employee_86,Marketing,Contract,Security alert received,Security alert received,Security,High,In Progress,2026-08-06 12:23:51,,38.95
+95,Employee_21,Operations,Contract,Software installation failed,Software installation failed,Software,Medium,In Progress,2026-09-23 02:44:51,,17.26
+96,Employee_19,Sales,Intern,Unable to send email,Unable to send email,Email,Medium,In Progress,2026-09-22 13:35:51,,21.61
+97,Employee_97,HR,Contract,Laptop is not turning on,Laptop is not turning on,Hardware,High,Open,2026-06-25 03:01:51,,41.08
+98,Employee_61,IT,Contract,Mouse is not responding,Mouse is not responding,Hardware,High,Open,2026-05-01 05:46:51,,3.7
+99,Employee_64,Finance,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Medium,In Progress,2026-05-18 17:17:51,,0.65
+100,Employee_2,Marketing,Intern,Account is locked,Account is locked,Account,Medium,Resolved,2026-08-27 09:46:51,2026-08-27 12:54:03,3.12
+101,Employee_22,HR,Contract,Printer is not working,Printer is not working,Hardware,Low,In Progress,2026-06-24 02:42:51,,6.6
+102,Employee_93,Marketing,Contract,Email attachment is not working,Email attachment is not working,Email,Medium,Open,2026-06-20 03:39:51,,8.31
+103,Employee_94,Marketing,Permanent,Outlook is not opening,Outlook is not opening,Email,Low,In Progress,2026-07-11 17:48:51,,14.53
+104,Employee_72,Marketing,Permanent,Internet connection is very slow,Internet connection is very slow,Network,High,Resolved,2026-04-14 07:47:51,2026-04-16 00:07:03,40.32
+105,Employee_47,Operations,Permanent,Unable to send email,Unable to send email,Email,Medium,Open,2026-08-13 20:01:51,,11.46
+106,Employee_10,HR,Intern,Suspicious email received,Suspicious email received,Security,Medium,Resolved,2026-06-05 17:07:51,2026-06-05 23:37:15,6.49
+107,Employee_3,Finance,Contract,Email is not syncing,Email is not syncing,Email,High,In Progress,2026-07-17 05:44:51,,41.0
+108,Employee_9,HR,Intern,Email attachment is not working,Email attachment is not working,Email,Medium,In Progress,2026-07-03 13:03:51,,9.5
+109,Employee_96,IT,Permanent,Password reset required,Password reset required,Account,Medium,Open,2026-08-20 04:11:51,,34.52
+110,Employee_36,Finance,Permanent,Internet connection is very slow,Internet connection is very slow,Network,High,Resolved,2026-08-07 02:08:51,2026-08-08 11:52:03,33.72
+111,Employee_84,Sales,Contract,WiFi is not connecting,WiFi is not connecting,Network,High,Resolved,2026-06-13 10:08:51,2026-06-14 12:31:39,26.38
+112,Employee_87,IT,Intern,Email is not syncing,Email is not syncing,Email,Low,In Progress,2026-07-02 11:57:51,,28.53
+113,Employee_99,Sales,Intern,Unable to send email,Unable to send email,Email,Low,In Progress,2026-07-22 08:30:51,,3.01
+114,Employee_83,Marketing,Permanent,Email is not syncing,Email is not syncing,Email,Medium,In Progress,2026-09-24 14:11:51,,35.61
+115,Employee_39,Marketing,Contract,Password reset required,Password reset required,Account,High,Open,2026-05-16 07:06:51,,14.81
+116,Employee_22,Operations,Contract,Email is not syncing,Email is not syncing,Email,Medium,Resolved,2026-09-18 04:55:51,2026-09-19 10:13:51,29.3
+117,Employee_79,Sales,Intern,Unable to access office network,Unable to access office network,Network,Medium,Resolved,2026-05-17 09:20:51,2026-05-18 15:28:03,30.12
+118,Employee_70,Operations,Intern,Need access to account,Need access to account,Account,High,In Progress,2026-05-02 10:08:51,,2.58
+119,Employee_73,Operations,Contract,Unauthorized login detected,Unauthorized login detected,Security,Low,In Progress,2026-09-21 10:13:51,,10.61
+120,Employee_50,IT,Contract,Unable to receive email,Unable to receive email,Email,Medium,Resolved,2026-09-04 00:18:51,2026-09-04 19:00:15,18.69
+121,Employee_15,Finance,Permanent,Suspicious email received,Suspicious email received,Security,High,Open,2026-07-05 12:00:51,,22.68
+122,Employee_8,HR,Intern,WiFi is not connecting,WiFi is not connecting,Network,High,Resolved,2026-08-25 15:27:51,2026-08-26 19:42:15,28.24
+123,Employee_29,IT,Intern,Unauthorized login detected,Unauthorized login detected,Security,High,Resolved,2026-09-05 13:17:51,2026-09-06 11:02:51,21.75
+124,Employee_13,Operations,Permanent,Antivirus warning appeared,Antivirus warning appeared,Security,Medium,Resolved,2026-06-22 05:16:51,2026-06-22 07:07:51,1.85
+125,Employee_89,Sales,Contract,Keyboard is not working,Keyboard is not working,Hardware,Medium,In Progress,2026-04-02 19:55:51,,38.32
+126,Employee_69,HR,Intern,Suspicious email received,Suspicious email received,Security,Medium,Resolved,2026-06-18 16:25:51,2026-06-20 07:30:03,39.07
+127,Employee_97,Sales,Permanent,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,Open,2026-04-13 14:10:51,,17.43
+128,Employee_35,HR,Contract,Email is not syncing,Email is not syncing,Email,High,In Progress,2026-05-26 23:13:51,,9.0
+129,Employee_51,Marketing,Contract,Possible phishing email,Possible phishing email,Security,High,In Progress,2026-06-06 22:32:51,,19.79
+130,Employee_13,Marketing,Intern,Software installation failed,Software installation failed,Software,High,Resolved,2026-07-28 03:05:51,2026-07-29 00:20:15,21.24
+131,Employee_46,Operations,Contract,Unable to access office network,Unable to access office network,Network,Medium,In Progress,2026-07-12 01:25:51,,33.65
+132,Employee_19,IT,Intern,Antivirus warning appeared,Antivirus warning appeared,Security,High,Open,2026-06-04 15:59:51,,29.5
+133,Employee_23,Sales,Contract,Unable to access office network,Unable to access office network,Network,Medium,Open,2026-05-15 20:01:51,,32.1
+134,Employee_76,Marketing,Intern,Unauthorized login detected,Unauthorized login detected,Security,High,Resolved,2026-04-27 09:47:51,2026-04-29 02:45:27,40.96
+135,Employee_75,HR,Intern,Software is showing an error,Software is showing an error,Software,Low,Open,2026-06-12 09:29:51,,40.09
+136,Employee_19,HR,Permanent,Possible phishing email,Possible phishing email,Security,High,In Progress,2026-05-07 13:47:51,,35.57
+137,Employee_99,IT,Intern,Printer is not working,Printer is not working,Hardware,Low,Open,2026-08-26 18:42:51,,45.93
+138,Employee_49,Sales,Permanent,User account is not working,User account is not working,Account,Medium,In Progress,2026-07-27 02:34:51,,12.28
+139,Employee_13,Marketing,Intern,VPN is not working,VPN is not working,Network,Low,In Progress,2026-06-03 21:48:51,,30.75
+140,Employee_84,Marketing,Permanent,Printer is not working,Printer is not working,Hardware,High,Open,2026-06-10 21:11:51,,41.56
+141,Employee_97,Sales,Permanent,Unable to receive email,Unable to receive email,Email,Low,Open,2026-07-21 06:16:51,,9.26
+142,Employee_18,Sales,Contract,Antivirus warning appeared,Antivirus warning appeared,Security,High,In Progress,2026-05-04 18:35:51,,39.95
+143,Employee_39,IT,Permanent,Unable to open application,Unable to open application,Software,High,Resolved,2026-06-07 07:32:51,2026-06-07 19:19:39,11.78
+144,Employee_4,Operations,Intern,Unable to send email,Unable to send email,Email,High,In Progress,2026-05-29 06:55:51,,6.42
+145,Employee_81,Marketing,Contract,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Medium,Open,2026-07-19 21:26:51,,18.17
+146,Employee_13,Operations,Intern,Unauthorized login detected,Unauthorized login detected,Security,Medium,Open,2026-05-13 14:57:51,,21.18
+147,Employee_3,Finance,Intern,Unable to login,Unable to login,Account,High,In Progress,2026-06-28 13:26:51,,29.51
+148,Employee_41,IT,Contract,User account is not working,User account is not working,Account,High,Resolved,2026-09-25 06:47:51,2026-09-26 05:30:27,22.71
+149,Employee_40,Marketing,Contract,Possible phishing email,Possible phishing email,Security,High,Open,2026-07-05 17:56:51,,40.54
+150,Employee_58,Operations,Intern,Application is crashing,Application is crashing,Software,Medium,Resolved,2026-07-26 22:16:51,2026-07-28 11:28:15,37.19
+151,Employee_85,Sales,Intern,User account is not working,User account is not working,Account,Medium,Open,2026-08-17 21:56:51,,5.62
+152,Employee_80,Finance,Intern,Unable to send email,Unable to send email,Email,High,Open,2026-07-14 18:20:51,,12.01
+153,Employee_40,Sales,Intern,Internet connection is very slow,Internet connection is very slow,Network,Medium,Resolved,2026-04-22 01:56:51,2026-04-24 01:06:27,47.16
+154,Employee_92,IT,Permanent,Email is not syncing,Email is not syncing,Email,High,Resolved,2026-07-21 11:07:51,2026-07-21 22:15:39,11.13
+155,Employee_79,IT,Contract,Possible phishing email,Possible phishing email,Security,Low,Resolved,2026-08-06 01:54:51,2026-08-07 22:57:15,45.04
+156,Employee_89,Finance,Contract,Password reset required,Password reset required,Account,High,Open,2026-08-17 21:56:51,,35.99
+157,Employee_3,Operations,Contract,Keyboard is not working,Keyboard is not working,Hardware,High,Resolved,2026-08-22 11:36:51,2026-08-23 22:30:51,34.9
+158,Employee_1,Finance,Permanent,Email attachment is not working,Email attachment is not working,Email,Medium,In Progress,2026-08-17 13:44:51,,5.59
+159,Employee_52,Marketing,Permanent,WiFi is not connecting,WiFi is not connecting,Network,Medium,Open,2026-09-14 09:37:51,,39.43
+160,Employee_38,HR,Intern,VPN is not working,VPN is not working,Network,Low,Resolved,2026-08-07 06:48:51,2026-08-09 04:05:03,45.27
+161,Employee_12,Marketing,Intern,Unable to access office network,Unable to access office network,Network,Medium,Open,2026-04-30 21:21:51,,28.03
+162,Employee_14,HR,Permanent,Email attachment is not working,Email attachment is not working,Email,High,In Progress,2026-05-17 07:52:51,,9.64
+163,Employee_57,Finance,Intern,Antivirus warning appeared,Antivirus warning appeared,Security,High,In Progress,2026-09-08 18:29:51,,7.96
+164,Employee_68,Finance,Intern,Suspicious email received,Suspicious email received,Security,High,In Progress,2026-06-04 19:43:51,,22.12
+165,Employee_24,Marketing,Permanent,Email is not syncing,Email is not syncing,Email,High,Open,2026-07-11 07:59:51,,32.49
+166,Employee_7,Marketing,Intern,Application is running slowly,Application is running slowly,Software,High,In Progress,2026-06-19 09:34:51,,4.88
+167,Employee_88,Finance,Permanent,Password reset required,Password reset required,Account,Low,Resolved,2026-06-15 00:57:51,2026-06-16 07:47:39,30.83
+168,Employee_51,HR,Intern,Application is crashing,Application is crashing,Software,Low,Resolved,2026-09-26 07:04:51,2026-09-27 23:13:51,40.15
+169,Employee_26,HR,Permanent,Account is locked,Account is locked,Account,High,Open,2026-09-10 14:31:51,,44.18
+170,Employee_80,Operations,Intern,Possible phishing email,Possible phishing email,Security,High,Resolved,2026-04-16 18:25:51,2026-04-17 15:37:51,21.2
+171,Employee_5,Marketing,Contract,Unable to access office network,Unable to access office network,Network,High,Open,2026-04-29 04:02:51,,28.92
+172,Employee_43,Sales,Intern,Password reset required,Password reset required,Account,Low,Resolved,2026-07-12 16:07:51,2026-07-13 18:21:03,26.22
+173,Employee_15,IT,Intern,Outlook is not opening,Outlook is not opening,Email,High,Open,2026-06-21 21:31:51,,42.9
+174,Employee_15,HR,Permanent,Possible phishing email,Possible phishing email,Security,Medium,In Progress,2026-06-27 01:26:51,,8.25
+175,Employee_78,Operations,Permanent,Application is running slowly,Application is running slowly,Software,High,Resolved,2026-07-23 22:02:51,2026-07-24 00:59:51,2.95
+176,Employee_75,Sales,Intern,VPN is not working,VPN is not working,Network,High,In Progress,2026-09-24 09:13:51,,30.66
+177,Employee_96,IT,Intern,WiFi is not connecting,WiFi is not connecting,Network,Medium,In Progress,2026-04-27 13:11:51,,5.4
+178,Employee_99,Marketing,Contract,Account is locked,Account is locked,Account,Low,Resolved,2026-05-09 02:25:51,2026-05-10 00:37:15,22.19
+179,Employee_18,Marketing,Intern,Software installation failed,Software installation failed,Software,Low,In Progress,2026-05-20 08:27:51,,40.77
+180,Employee_81,Sales,Intern,Unable to login,Unable to login,Account,Low,Open,2026-05-02 11:32:51,,17.13
+181,Employee_58,Finance,Permanent,Account is locked,Account is locked,Account,High,Open,2026-06-30 22:10:51,,2.79
+182,Employee_70,Operations,Permanent,Suspicious email received,Suspicious email received,Security,Medium,Resolved,2026-06-25 04:46:51,2026-06-26 12:00:39,31.23
+183,Employee_51,HR,Contract,Outlook is not opening,Outlook is not opening,Email,Low,In Progress,2026-06-03 09:35:51,,21.21
+184,Employee_83,Sales,Contract,Software is showing an error,Software is showing an error,Software,Medium,In Progress,2026-07-26 15:45:51,,5.49
+185,Employee_80,Operations,Contract,Unable to access office network,Unable to access office network,Network,Medium,In Progress,2026-09-02 07:08:51,,16.96
+186,Employee_93,IT,Permanent,Security alert received,Security alert received,Security,Low,Open,2026-07-05 01:50:51,,27.96
+187,Employee_21,Marketing,Intern,Suspicious email received,Suspicious email received,Security,Low,In Progress,2026-06-17 02:13:51,,37.3
+188,Employee_55,HR,Intern,Application is running slowly,Application is running slowly,Software,Low,Resolved,2026-05-05 06:28:51,2026-05-05 18:52:51,12.4
+189,Employee_77,Sales,Permanent,Laptop is not turning on,Laptop is not turning on,Hardware,Medium,In Progress,2026-09-02 15:06:51,,10.35
+190,Employee_48,Sales,Intern,Software installation failed,Software installation failed,Software,Medium,Resolved,2026-09-15 07:37:51,2026-09-16 09:37:15,25.99
+191,Employee_23,HR,Intern,User account is not working,User account is not working,Account,Medium,Resolved,2026-04-24 08:02:51,2026-04-24 17:20:15,9.29
+192,Employee_72,Operations,Permanent,WiFi is not connecting,WiFi is not connecting,Network,Low,Resolved,2026-07-05 08:05:51,2026-07-06 14:41:15,30.59
+193,Employee_82,Sales,Permanent,Printer is not working,Printer is not working,Hardware,Medium,Open,2026-06-18 23:29:51,,7.85
+194,Employee_11,Sales,Contract,Email attachment is not working,Email attachment is not working,Email,High,Open,2026-06-29 16:13:51,,38.51
+195,Employee_87,Sales,Permanent,Application is running slowly,Application is running slowly,Software,High,Open,2026-04-23 22:22:51,,42.7
+196,Employee_62,IT,Permanent,Email is not syncing,Email is not syncing,Email,High,In Progress,2026-09-15 14:10:51,,43.08
+197,Employee_62,Marketing,Permanent,Email is not syncing,Email is not syncing,Email,High,Resolved,2026-08-30 11:25:51,2026-08-31 23:36:39,36.18
+198,Employee_93,Sales,Intern,VPN is not working,VPN is not working,Network,High,Open,2026-09-15 14:49:51,,35.84
+199,Employee_99,Sales,Contract,Unable to open application,Unable to open application,Software,Low,Resolved,2026-08-24 21:40:51,2026-08-26 20:04:51,46.4
+200,Employee_79,Finance,Permanent,Password reset required,Password reset required,Account,High,In Progress,2026-06-13 21:44:51,,37.13
+201,Employee_64,Sales,Permanent,Mouse is not responding,Mouse is not responding,Hardware,High,In Progress,2026-08-27 14:27:51,,5.52
+202,Employee_56,IT,Permanent,Software installation failed,Software installation failed,Software,Low,Resolved,2026-06-17 00:39:51,2026-06-17 18:14:03,17.57
+203,Employee_78,HR,Permanent,Email is not syncing,Email is not syncing,Email,Low,Resolved,2026-06-24 07:15:51,2026-06-26 02:38:39,43.38
+204,Employee_31,Finance,Contract,Unable to receive email,Unable to receive email,Email,Medium,Open,2026-04-22 22:21:51,,17.59
+205,Employee_91,HR,Intern,Unable to login,Unable to login,Account,Low,Resolved,2026-04-29 19:24:51,2026-05-01 14:57:51,43.55
+206,Employee_74,Finance,Permanent,Password reset required,Password reset required,Account,Low,Resolved,2026-09-22 01:48:51,2026-09-23 16:56:03,39.12
+207,Employee_12,Sales,Intern,Account is locked,Account is locked,Account,High,Resolved,2026-07-16 14:56:51,2026-07-18 04:38:15,37.69
+208,Employee_60,Finance,Intern,Suspicious email received,Suspicious email received,Security,High,Open,2026-04-23 20:03:51,,41.41
+209,Employee_1,Sales,Permanent,Unable to open application,Unable to open application,Software,Low,Resolved,2026-05-03 01:15:51,2026-05-03 10:56:03,9.67
+210,Employee_76,Sales,Intern,Application is crashing,Application is crashing,Software,Low,Open,2026-07-06 19:54:51,,44.07
+211,Employee_15,Marketing,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Low,Resolved,2026-07-25 04:12:51,2026-07-25 19:44:39,15.53
+212,Employee_99,Sales,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,In Progress,2026-09-18 14:38:51,,41.88
+213,Employee_83,IT,Contract,Unable to open application,Unable to open application,Software,Medium,Resolved,2026-04-07 12:32:51,2026-04-08 03:57:27,15.41
+214,Employee_91,HR,Permanent,Antivirus warning appeared,Antivirus warning appeared,Security,High,In Progress,2026-09-14 09:56:51,,24.8
+215,Employee_89,Operations,Contract,Security alert received,Security alert received,Security,Medium,In Progress,2026-07-29 20:19:51,,46.18
+216,Employee_60,Sales,Permanent,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,In Progress,2026-04-25 19:02:51,,25.8
+217,Employee_27,Finance,Permanent,Unable to receive email,Unable to receive email,Email,Medium,In Progress,2026-06-10 19:36:51,,32.09
+218,Employee_40,Operations,Intern,Application is running slowly,Application is running slowly,Software,Medium,Resolved,2026-07-18 20:59:51,2026-07-19 06:02:51,9.05
+219,Employee_92,Operations,Contract,Keyboard is not working,Keyboard is not working,Hardware,Medium,Resolved,2026-05-09 14:40:51,2026-05-09 17:07:15,2.44
+220,Employee_15,Marketing,Permanent,Software is showing an error,Software is showing an error,Software,High,Resolved,2026-07-03 13:48:51,2026-07-04 23:34:27,33.76
+221,Employee_94,Operations,Intern,Printer is not working,Printer is not working,Hardware,High,Resolved,2026-04-05 06:04:51,2026-04-07 02:52:15,44.79
+222,Employee_28,Marketing,Permanent,Email attachment is not working,Email attachment is not working,Email,Medium,Open,2026-08-22 21:11:51,,27.83
+223,Employee_93,Marketing,Permanent,VPN is not working,VPN is not working,Network,High,Open,2026-04-05 04:52:51,,14.95
+224,Employee_36,HR,Intern,Unable to login,Unable to login,Account,Medium,In Progress,2026-06-16 07:16:51,,41.67
+225,Employee_89,Operations,Intern,Possible phishing email,Possible phishing email,Security,High,Resolved,2026-04-18 17:01:51,2026-04-20 10:22:51,41.35
+226,Employee_77,Sales,Intern,Antivirus warning appeared,Antivirus warning appeared,Security,Low,Open,2026-05-25 08:44:51,,1.15
+227,Employee_55,IT,Permanent,Account is locked,Account is locked,Account,Low,Resolved,2026-04-29 18:04:51,2026-04-30 12:13:51,18.15
+228,Employee_24,Sales,Intern,Need access to account,Need access to account,Account,High,Resolved,2026-06-13 23:21:51,2026-06-15 17:01:27,41.66
+229,Employee_49,IT,Contract,WiFi is not connecting,WiFi is not connecting,Network,Medium,Resolved,2026-07-24 12:40:51,2026-07-26 06:48:03,42.12
+230,Employee_70,Marketing,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,Resolved,2026-07-11 03:03:51,2026-07-12 04:42:51,25.65
+231,Employee_24,Marketing,Intern,WiFi is not connecting,WiFi is not connecting,Network,Low,Open,2026-05-02 21:39:51,,32.32
+232,Employee_22,Marketing,Permanent,Software is showing an error,Software is showing an error,Software,High,In Progress,2026-08-11 07:12:51,,12.61
+233,Employee_18,Sales,Intern,WiFi is not connecting,WiFi is not connecting,Network,Medium,In Progress,2026-08-26 04:52:51,,38.47
+234,Employee_99,Operations,Permanent,Password reset required,Password reset required,Account,Low,Resolved,2026-05-07 13:43:51,2026-05-08 22:21:39,32.63
+235,Employee_57,IT,Contract,Unable to access office network,Unable to access office network,Network,Low,Open,2026-08-16 19:43:51,,21.24
+236,Employee_48,HR,Contract,Mouse is not responding,Mouse is not responding,Hardware,High,Resolved,2026-05-27 14:02:51,2026-05-29 10:40:03,44.62
+237,Employee_90,Sales,Intern,Unable to send email,Unable to send email,Email,Low,In Progress,2026-05-26 07:54:51,,3.13
+238,Employee_68,Finance,Intern,Unable to send email,Unable to send email,Email,Low,In Progress,2026-09-27 02:08:51,,38.96
+239,Employee_49,Marketing,Permanent,WiFi is not connecting,WiFi is not connecting,Network,Low,In Progress,2026-06-05 05:36:51,,46.61
+240,Employee_59,Finance,Permanent,Mouse is not responding,Mouse is not responding,Hardware,Low,Resolved,2026-05-29 00:12:51,2026-05-30 10:38:39,34.43
+241,Employee_54,Sales,Intern,Software installation failed,Software installation failed,Software,Medium,Resolved,2026-04-21 10:13:51,2026-04-21 21:39:39,11.43
+242,Employee_63,Sales,Intern,Suspicious email received,Suspicious email received,Security,High,Resolved,2026-05-18 14:37:51,2026-05-19 23:18:03,32.67
+243,Employee_91,IT,Intern,Email attachment is not working,Email attachment is not working,Email,Medium,Resolved,2026-08-04 10:22:51,2026-08-06 04:22:15,41.99
+244,Employee_82,Marketing,Intern,Email attachment is not working,Email attachment is not working,Email,Medium,Open,2026-08-28 16:16:51,,24.26
+245,Employee_42,HR,Intern,Internet connection is very slow,Internet connection is very slow,Network,High,Resolved,2026-09-11 07:39:51,2026-09-12 01:26:03,17.77
+246,Employee_9,HR,Permanent,Account is locked,Account is locked,Account,High,Resolved,2026-07-12 10:10:51,2026-07-13 05:49:15,19.64
+247,Employee_15,Marketing,Permanent,Laptop is not turning on,Laptop is not turning on,Hardware,Medium,Open,2026-05-03 21:08:51,,47.03
+248,Employee_48,Finance,Permanent,VPN is not working,VPN is not working,Network,Low,Resolved,2026-08-14 10:18:51,2026-08-16 07:10:27,44.86
+249,Employee_16,HR,Permanent,Account is locked,Account is locked,Account,Low,In Progress,2026-06-30 00:35:51,,43.97
+250,Employee_27,Operations,Permanent,VPN is not working,VPN is not working,Network,Low,Open,2026-05-19 13:10:51,,11.87
+251,Employee_4,Finance,Permanent,WiFi is not connecting,WiFi is not connecting,Network,High,Open,2026-05-30 05:35:51,,16.57
+252,Employee_66,HR,Contract,Suspicious email received,Suspicious email received,Security,Low,In Progress,2026-04-20 11:30:51,,22.43
+253,Employee_99,Operations,Intern,Software is showing an error,Software is showing an error,Software,High,Resolved,2026-05-13 00:30:51,2026-05-13 11:36:15,11.09
+254,Employee_59,Operations,Contract,Unable to access office network,Unable to access office network,Network,Medium,In Progress,2026-06-22 07:38:51,,24.5
+255,Employee_17,HR,Contract,User account is not working,User account is not working,Account,High,Open,2026-05-12 08:54:51,,12.85
+256,Employee_70,HR,Intern,Password reset required,Password reset required,Account,Medium,Resolved,2026-09-04 11:51:51,2026-09-06 02:10:27,38.31
+257,Employee_83,HR,Permanent,Software is showing an error,Software is showing an error,Software,Medium,Open,2026-09-21 21:29:51,,2.05
+258,Employee_2,Marketing,Permanent,Unable to open application,Unable to open application,Software,High,Resolved,2026-08-06 07:35:51,2026-08-06 22:24:27,14.81
+259,Employee_30,Sales,Permanent,Software is showing an error,Software is showing an error,Software,Medium,Resolved,2026-09-25 13:15:51,2026-09-27 07:16:27,42.01
+260,Employee_64,Finance,Intern,Software installation failed,Software installation failed,Software,Low,In Progress,2026-07-17 11:15:51,,39.48
+261,Employee_33,IT,Intern,Possible phishing email,Possible phishing email,Security,Low,In Progress,2026-09-28 07:25:51,,24.47
+262,Employee_81,Operations,Permanent,Unable to open application,Unable to open application,Software,High,Resolved,2026-04-18 23:19:51,2026-04-19 21:03:03,21.72
+263,Employee_91,Marketing,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,Resolved,2026-08-25 05:49:51,2026-08-26 05:22:51,23.55
+264,Employee_11,Sales,Intern,Unable to access office network,Unable to access office network,Network,High,Resolved,2026-09-16 20:26:51,2026-09-18 07:25:39,34.98
+265,Employee_49,HR,Intern,Suspicious email received,Suspicious email received,Security,High,In Progress,2026-07-15 00:10:51,,8.21
+266,Employee_52,Marketing,Contract,Printer is not working,Printer is not working,Hardware,High,In Progress,2026-09-24 20:16:51,,14.92
+267,Employee_51,IT,Intern,Account is locked,Account is locked,Account,High,Resolved,2026-04-29 13:14:51,2026-04-30 19:04:39,29.83
+268,Employee_56,Finance,Intern,Suspicious email received,Suspicious email received,Security,Medium,In Progress,2026-09-16 14:13:51,,41.34
+269,Employee_76,HR,Permanent,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Low,In Progress,2026-06-11 12:57:51,,38.6
+270,Employee_14,IT,Permanent,Printer is not working,Printer is not working,Hardware,Low,Open,2026-06-12 06:41:51,,23.6
+271,Employee_20,Finance,Intern,Application is crashing,Application is crashing,Software,Low,Open,2026-06-04 12:29:51,,7.07
+272,Employee_10,IT,Permanent,User account is not working,User account is not working,Account,Low,Open,2026-07-15 08:59:51,,2.31
+273,Employee_24,Sales,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,High,Open,2026-08-28 19:32:51,,11.19
+274,Employee_38,IT,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,Open,2026-06-22 09:07:51,,25.02
+275,Employee_35,HR,Contract,Email is not syncing,Email is not syncing,Email,Low,Open,2026-08-06 19:34:51,,1.6
+276,Employee_84,Finance,Permanent,Unable to open application,Unable to open application,Software,High,Resolved,2026-05-09 17:51:51,2026-05-11 14:50:39,44.98
+277,Employee_31,Marketing,Intern,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,Open,2026-08-14 08:42:51,,4.21
+278,Employee_24,Sales,Contract,Unauthorized login detected,Unauthorized login detected,Security,Medium,Open,2026-06-04 21:33:51,,42.31
+279,Employee_72,HR,Permanent,Unauthorized login detected,Unauthorized login detected,Security,High,Open,2026-06-18 21:34:51,,9.48
+280,Employee_46,HR,Contract,Application is running slowly,Application is running slowly,Software,Medium,In Progress,2026-09-06 01:44:51,,47.49
+281,Employee_51,HR,Contract,Possible phishing email,Possible phishing email,Security,Low,In Progress,2026-06-01 07:36:51,,0.56
+282,Employee_22,Sales,Intern,Unable to access office network,Unable to access office network,Network,High,Resolved,2026-04-07 19:57:51,2026-04-09 06:08:03,34.17
+283,Employee_83,HR,Intern,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,In Progress,2026-05-09 15:30:51,,31.14
+284,Employee_2,Finance,Permanent,Unable to receive email,Unable to receive email,Email,Low,Resolved,2026-08-17 07:32:51,2026-08-19 06:04:03,46.52
+285,Employee_44,HR,Permanent,Antivirus warning appeared,Antivirus warning appeared,Security,Medium,Resolved,2026-06-18 10:46:51,2026-06-20 04:54:39,42.13
+286,Employee_49,Sales,Permanent,Mouse is not responding,Mouse is not responding,Hardware,Low,Resolved,2026-05-17 00:13:51,2026-05-18 10:52:51,34.65
+287,Employee_13,Sales,Contract,Mouse is not responding,Mouse is not responding,Hardware,Medium,Open,2026-07-04 15:22:51,,34.89
+288,Employee_62,Marketing,Permanent,Unable to receive email,Unable to receive email,Email,Medium,Resolved,2026-06-02 16:40:51,2026-06-04 14:23:27,45.71
+289,Employee_76,IT,Permanent,Internet connection is very slow,Internet connection is very slow,Network,Medium,In Progress,2026-09-26 03:17:51,,16.02
+290,Employee_99,IT,Contract,Unauthorized login detected,Unauthorized login detected,Security,High,In Progress,2026-07-30 07:17:51,,25.23
+291,Employee_48,IT,Contract,Software is showing an error,Software is showing an error,Software,Low,Open,2026-09-08 18:50:51,,3.62
+292,Employee_8,Sales,Intern,Outlook is not opening,Outlook is not opening,Email,Low,Resolved,2026-05-06 00:54:51,2026-05-06 17:36:15,16.69
+293,Employee_6,Operations,Contract,Internet connection is very slow,Internet connection is very slow,Network,Medium,Resolved,2026-04-26 14:36:51,2026-04-26 20:14:03,5.62
+294,Employee_78,IT,Permanent,Application is running slowly,Application is running slowly,Software,Low,Resolved,2026-04-07 07:05:51,2026-04-08 08:05:51,25.0
+295,Employee_15,IT,Permanent,Email is not syncing,Email is not syncing,Email,Medium,In Progress,2026-04-18 12:22:51,,37.39
+296,Employee_84,Operations,Permanent,Printer is not working,Printer is not working,Hardware,Medium,Open,2026-05-02 12:56:51,,44.45
+297,Employee_42,Sales,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,In Progress,2026-06-18 01:19:51,,0.78
+298,Employee_76,Sales,Intern,Software is showing an error,Software is showing an error,Software,Medium,Open,2026-08-10 05:27:51,,42.39
+299,Employee_7,Marketing,Contract,Unable to access office network,Unable to access office network,Network,Medium,In Progress,2026-09-26 01:25:51,,26.93
+300,Employee_40,Finance,Contract,Password reset required,Password reset required,Account,Low,Resolved,2026-08-23 13:35:51,2026-08-23 17:10:03,3.57
+301,Employee_87,Marketing,Contract,Application is crashing,Application is crashing,Software,Medium,Open,2026-08-08 02:05:51,,16.6
+302,Employee_41,Finance,Contract,Unable to login,Unable to login,Account,High,Resolved,2026-09-08 05:23:51,2026-09-09 06:34:03,25.17
+303,Employee_46,HR,Contract,User account is not working,User account is not working,Account,Low,Open,2026-04-09 13:07:51,,2.17
+304,Employee_95,Marketing,Intern,Outlook is not opening,Outlook is not opening,Email,Low,In Progress,2026-06-12 21:47:51,,16.96
+305,Employee_67,IT,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,Open,2026-05-21 09:07:51,,16.4
+306,Employee_100,IT,Intern,Suspicious email received,Suspicious email received,Security,High,Open,2026-04-19 19:31:51,,41.87
+307,Employee_89,Operations,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,Open,2026-09-21 18:07:51,,10.93
+308,Employee_55,IT,Intern,Application is running slowly,Application is running slowly,Software,High,In Progress,2026-08-16 05:23:51,,44.91
+309,Employee_89,Marketing,Intern,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,Resolved,2026-04-18 05:36:51,2026-04-19 02:34:27,20.96
+310,Employee_77,Operations,Intern,Password reset required,Password reset required,Account,Medium,In Progress,2026-04-08 23:43:51,,38.23
+311,Employee_96,HR,Intern,Suspicious email received,Suspicious email received,Security,Low,Open,2026-06-27 10:27:51,,11.61
+312,Employee_39,IT,Intern,Printer is not working,Printer is not working,Hardware,High,Open,2026-05-16 00:35:51,,4.26
+313,Employee_65,IT,Intern,Laptop is not turning on,Laptop is not turning on,Hardware,High,Open,2026-08-21 23:57:51,,33.87
+314,Employee_83,IT,Intern,Possible phishing email,Possible phishing email,Security,High,In Progress,2026-07-05 01:00:51,,2.93
+315,Employee_58,Operations,Permanent,Software is showing an error,Software is showing an error,Software,Medium,In Progress,2026-07-03 16:17:51,,6.75
+316,Employee_91,IT,Intern,WiFi is not connecting,WiFi is not connecting,Network,Medium,Open,2026-04-18 20:58:51,,41.47
+317,Employee_91,Marketing,Intern,Need access to account,Need access to account,Account,High,Open,2026-05-07 00:47:51,,25.71
+318,Employee_32,HR,Permanent,Unable to access office network,Unable to access office network,Network,Medium,Resolved,2026-08-15 06:24:51,2026-08-15 15:04:27,8.66
+319,Employee_39,Finance,Intern,Need access to account,Need access to account,Account,Low,Open,2026-09-03 13:44:51,,43.79
+320,Employee_34,Finance,Permanent,Security alert received,Security alert received,Security,Low,Open,2026-08-04 21:27:51,,15.57
+321,Employee_79,IT,Intern,Possible phishing email,Possible phishing email,Security,Medium,In Progress,2026-07-08 21:43:51,,23.05
+322,Employee_70,Sales,Contract,Need access to account,Need access to account,Account,High,Resolved,2026-09-17 20:39:51,2026-09-19 17:47:39,45.13
+323,Employee_55,IT,Permanent,Printer is not working,Printer is not working,Hardware,Low,Open,2026-07-03 21:47:51,,45.92
+324,Employee_65,Marketing,Contract,Internet connection is very slow,Internet connection is very slow,Network,Low,Resolved,2026-06-08 10:34:51,2026-06-10 08:13:15,45.64
+325,Employee_43,Operations,Permanent,Need access to account,Need access to account,Account,High,Open,2026-05-14 16:11:51,,19.8
+326,Employee_28,Sales,Intern,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Medium,Open,2026-08-05 11:55:51,,14.2
+327,Employee_15,Marketing,Intern,WiFi is not connecting,WiFi is not connecting,Network,Medium,In Progress,2026-06-24 04:23:51,,17.85
+328,Employee_75,Marketing,Intern,Software is showing an error,Software is showing an error,Software,Medium,Resolved,2026-04-26 05:41:51,2026-04-26 09:58:39,4.28
+329,Employee_37,Marketing,Contract,Printer is not working,Printer is not working,Hardware,Low,In Progress,2026-07-18 22:21:51,,19.8
+330,Employee_78,IT,Permanent,Unauthorized login detected,Unauthorized login detected,Security,High,Open,2026-09-13 02:25:51,,2.65
+331,Employee_50,IT,Contract,User account is not working,User account is not working,Account,Medium,Resolved,2026-07-14 02:01:51,2026-07-14 14:47:27,12.76
+332,Employee_57,Finance,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,Resolved,2026-05-02 12:33:51,2026-05-02 15:15:51,2.7
+333,Employee_10,Operations,Intern,Unable to access office network,Unable to access office network,Network,High,Open,2026-05-20 05:03:51,,12.4
+334,Employee_38,Marketing,Intern,Unable to receive email,Unable to receive email,Email,Low,Open,2026-06-01 11:02:51,,45.03
+335,Employee_84,Finance,Permanent,Unable to access office network,Unable to access office network,Network,High,In Progress,2026-07-23 20:36:51,,24.4
+336,Employee_92,HR,Intern,Email is not syncing,Email is not syncing,Email,High,Open,2026-05-20 02:24:51,,28.21
+337,Employee_27,Finance,Contract,Unable to send email,Unable to send email,Email,High,Resolved,2026-05-17 18:45:51,2026-05-18 13:46:27,19.01
+338,Employee_69,Finance,Intern,Email is not syncing,Email is not syncing,Email,Medium,In Progress,2026-06-10 07:50:51,,35.93
+339,Employee_4,Finance,Permanent,Antivirus warning appeared,Antivirus warning appeared,Security,Low,Open,2026-09-13 06:33:51,,25.19
+340,Employee_100,Finance,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Low,Resolved,2026-08-20 18:47:51,2026-08-21 12:41:51,17.9
+341,Employee_23,IT,Permanent,Internet connection is very slow,Internet connection is very slow,Network,Medium,In Progress,2026-09-03 22:50:51,,37.11
+342,Employee_15,IT,Permanent,Need access to account,Need access to account,Account,High,Resolved,2026-04-21 23:06:51,2026-04-23 11:52:27,36.76
+343,Employee_45,Finance,Permanent,WiFi is not connecting,WiFi is not connecting,Network,Medium,In Progress,2026-09-21 14:30:51,,32.76
+344,Employee_13,Operations,Permanent,Keyboard is not working,Keyboard is not working,Hardware,Medium,Resolved,2026-08-22 14:29:51,2026-08-24 06:40:03,40.17
+345,Employee_22,Sales,Contract,Unable to send email,Unable to send email,Email,Low,Resolved,2026-07-12 23:23:51,2026-07-13 08:16:03,8.87
+346,Employee_86,Marketing,Intern,Security alert received,Security alert received,Security,High,In Progress,2026-06-05 11:45:51,,23.37
+347,Employee_33,HR,Permanent,Email attachment is not working,Email attachment is not working,Email,High,In Progress,2026-07-03 14:56:51,,19.77
+348,Employee_36,Marketing,Contract,Unable to send email,Unable to send email,Email,Low,Open,2026-08-18 07:57:51,,17.98
+349,Employee_95,Marketing,Contract,Password reset required,Password reset required,Account,Low,In Progress,2026-08-14 11:47:51,,32.73
+350,Employee_42,HR,Contract,WiFi is not connecting,WiFi is not connecting,Network,Low,In Progress,2026-07-15 08:11:51,,9.27
+351,Employee_50,Sales,Permanent,Software installation failed,Software installation failed,Software,Medium,In Progress,2026-07-15 17:48:51,,11.98
+352,Employee_22,Marketing,Intern,Unauthorized login detected,Unauthorized login detected,Security,Medium,In Progress,2026-08-28 15:04:51,,46.8
+353,Employee_15,Sales,Permanent,Account is locked,Account is locked,Account,Medium,Open,2026-07-13 12:20:51,,26.83
+354,Employee_54,Operations,Contract,Password reset required,Password reset required,Account,Medium,In Progress,2026-08-29 01:44:51,,42.02
+355,Employee_54,IT,Contract,Application is running slowly,Application is running slowly,Software,High,In Progress,2026-08-27 16:50:51,,47.69
+356,Employee_69,Operations,Contract,Unable to access office network,Unable to access office network,Network,High,In Progress,2026-07-12 01:53:51,,17.84
+357,Employee_86,Sales,Contract,WiFi is not connecting,WiFi is not connecting,Network,High,Resolved,2026-07-14 23:49:51,2026-07-16 03:04:51,27.25
+358,Employee_51,Sales,Contract,Possible phishing email,Possible phishing email,Security,Low,In Progress,2026-06-20 23:46:51,,3.35
+359,Employee_52,HR,Intern,Account is locked,Account is locked,Account,Medium,Resolved,2026-04-28 17:26:51,2026-04-30 02:10:39,32.73
+360,Employee_22,IT,Contract,Need access to account,Need access to account,Account,High,Open,2026-07-24 19:27:51,,39.44
+361,Employee_57,Finance,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,Open,2026-04-22 01:42:51,,44.03
+362,Employee_90,Finance,Intern,Application is crashing,Application is crashing,Software,High,Resolved,2026-07-17 15:35:51,2026-07-17 23:46:39,8.18
+363,Employee_38,Operations,Permanent,Password reset required,Password reset required,Account,Low,In Progress,2026-06-27 06:34:51,,34.98
+364,Employee_99,Operations,Intern,Outlook is not opening,Outlook is not opening,Email,High,Resolved,2026-08-30 07:42:51,2026-08-31 12:41:03,28.97
+365,Employee_10,IT,Intern,Laptop is not turning on,Laptop is not turning on,Hardware,High,Resolved,2026-05-30 05:32:51,2026-06-01 05:03:27,47.51
+366,Employee_44,Marketing,Intern,Security alert received,Security alert received,Security,High,Resolved,2026-08-01 05:21:51,2026-08-03 02:42:15,45.34
+367,Employee_86,Operations,Intern,Need access to account,Need access to account,Account,Medium,Open,2026-08-03 03:06:51,,8.21
+368,Employee_100,Sales,Contract,WiFi is not connecting,WiFi is not connecting,Network,Medium,Resolved,2026-09-04 01:56:51,2026-09-05 07:52:39,29.93
+369,Employee_89,Marketing,Intern,Application is crashing,Application is crashing,Software,High,In Progress,2026-08-06 22:20:51,,2.82
+370,Employee_75,HR,Contract,Unable to access office network,Unable to access office network,Network,Low,Resolved,2026-04-18 09:56:51,2026-04-20 06:29:51,44.55
+371,Employee_58,Finance,Intern,Password reset required,Password reset required,Account,Medium,Open,2026-06-10 03:02:51,,20.64
+372,Employee_20,Operations,Intern,Account is locked,Account is locked,Account,Medium,Open,2026-09-28 23:18:51,,16.55
+373,Employee_62,Finance,Intern,Laptop is not turning on,Laptop is not turning on,Hardware,Low,Resolved,2026-04-06 14:33:51,2026-04-06 19:11:03,4.62
+374,Employee_47,IT,Intern,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Low,Open,2026-08-27 02:34:51,,40.72
+375,Employee_89,Operations,Intern,Account is locked,Account is locked,Account,Low,In Progress,2026-07-11 04:37:51,,8.91
+376,Employee_11,Finance,Permanent,Email attachment is not working,Email attachment is not working,Email,Medium,In Progress,2026-08-05 10:32:51,,9.54
+377,Employee_48,IT,Contract,Keyboard is not working,Keyboard is not working,Hardware,High,In Progress,2026-08-17 22:38:51,,27.57
+378,Employee_97,IT,Intern,Unable to receive email,Unable to receive email,Email,Low,Open,2026-07-22 16:35:51,,12.67
+379,Employee_11,Operations,Intern,Unable to receive email,Unable to receive email,Email,Medium,In Progress,2026-09-24 04:35:51,,41.84
+380,Employee_55,Finance,Permanent,Application is crashing,Application is crashing,Software,Medium,In Progress,2026-08-07 22:28:51,,45.58
+381,Employee_92,IT,Contract,Unable to login,Unable to login,Account,Medium,Resolved,2026-08-29 06:24:51,2026-08-30 10:14:03,27.82
+382,Employee_100,IT,Permanent,Possible phishing email,Possible phishing email,Security,Medium,Resolved,2026-05-03 05:26:51,2026-05-05 00:50:51,43.4
+383,Employee_54,Sales,Permanent,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Low,Resolved,2026-04-29 15:58:51,2026-04-30 17:52:51,25.9
+384,Employee_25,Finance,Permanent,Unable to login,Unable to login,Account,Medium,In Progress,2026-06-19 15:32:51,,0.83
+385,Employee_54,Marketing,Contract,Suspicious email received,Suspicious email received,Security,Low,Resolved,2026-07-25 16:02:51,2026-07-26 20:05:51,28.05
+386,Employee_22,IT,Contract,Antivirus warning appeared,Antivirus warning appeared,Security,High,Open,2026-04-16 15:06:51,,17.0
+387,Employee_44,IT,Intern,Email is not syncing,Email is not syncing,Email,Medium,In Progress,2026-04-28 06:08:51,,27.13
+388,Employee_43,Operations,Permanent,Password reset required,Password reset required,Account,Low,Resolved,2026-05-21 22:19:51,2026-05-22 11:40:51,13.35
+389,Employee_70,HR,Permanent,Unable to receive email,Unable to receive email,Email,Low,Open,2026-05-14 01:59:51,,5.7
+390,Employee_44,HR,Contract,Outlook is not opening,Outlook is not opening,Email,Medium,In Progress,2026-08-25 16:51:51,,32.4
+391,Employee_74,Operations,Permanent,Password reset required,Password reset required,Account,Low,In Progress,2026-09-05 03:18:51,,13.52
+392,Employee_86,IT,Permanent,Antivirus warning appeared,Antivirus warning appeared,Security,Low,In Progress,2026-05-27 16:14:51,,33.12
+393,Employee_83,Sales,Intern,User account is not working,User account is not working,Account,Low,Open,2026-06-21 21:58:51,,15.86
+394,Employee_28,Marketing,Permanent,WiFi is not connecting,WiFi is not connecting,Network,High,Resolved,2026-09-04 09:36:51,2026-09-05 01:05:03,15.47
+395,Employee_76,Marketing,Intern,Mouse is not responding,Mouse is not responding,Hardware,Medium,Resolved,2026-06-22 17:32:51,2026-06-23 08:47:15,15.24
+396,Employee_1,Sales,Contract,WiFi is not connecting,WiFi is not connecting,Network,Medium,Open,2026-08-24 11:44:51,,17.57
+397,Employee_91,Sales,Intern,Software is showing an error,Software is showing an error,Software,Low,Open,2026-04-05 01:05:51,,3.55
+398,Employee_32,IT,Permanent,User account is not working,User account is not working,Account,Low,Resolved,2026-05-03 20:08:51,2026-05-04 11:26:51,15.3
+399,Employee_72,Operations,Permanent,Internet connection is very slow,Internet connection is very slow,Network,Low,Resolved,2026-05-14 21:13:51,2026-05-16 13:19:51,40.1
+400,Employee_61,HR,Intern,Security alert received,Security alert received,Security,Low,Open,2026-06-11 13:52:51,,39.98
+401,Employee_95,IT,Permanent,Laptop is not turning on,Laptop is not turning on,Hardware,Medium,Open,2026-05-05 10:31:51,,35.38
+402,Employee_52,Marketing,Permanent,Account is locked,Account is locked,Account,High,Open,2026-05-21 16:53:51,,9.69
+403,Employee_25,Sales,Permanent,Account is locked,Account is locked,Account,Medium,Open,2026-09-06 01:55:51,,21.43
+404,Employee_7,Marketing,Intern,Suspicious email received,Suspicious email received,Security,High,Resolved,2026-08-09 20:09:51,2026-08-11 19:03:15,46.89
+405,Employee_29,Sales,Permanent,Unable to access office network,Unable to access office network,Network,High,Open,2026-08-08 21:07:51,,15.23
+406,Employee_75,Sales,Contract,Email attachment is not working,Email attachment is not working,Email,High,In Progress,2026-06-24 08:56:51,,25.68
+407,Employee_96,Marketing,Intern,Outlook is not opening,Outlook is not opening,Email,Low,Resolved,2026-08-30 04:18:51,2026-08-31 04:53:03,24.57
+408,Employee_85,IT,Intern,Printer is not working,Printer is not working,Hardware,High,In Progress,2026-05-15 10:51:51,,24.12
+409,Employee_84,Sales,Permanent,Unable to login,Unable to login,Account,Low,In Progress,2026-04-25 09:23:51,,47.78
+410,Employee_45,Finance,Permanent,Email attachment is not working,Email attachment is not working,Email,Medium,In Progress,2026-04-17 09:32:51,,26.14
+411,Employee_46,Marketing,Contract,Unable to login,Unable to login,Account,Medium,Open,2026-08-29 15:15:51,,14.34
+412,Employee_4,IT,Contract,Account is locked,Account is locked,Account,Medium,Open,2026-05-28 16:33:51,,9.64
+413,Employee_79,HR,Contract,Printer is not working,Printer is not working,Hardware,High,Resolved,2026-04-26 16:29:51,2026-04-27 21:23:51,28.9
+414,Employee_15,Marketing,Intern,Password reset required,Password reset required,Account,Medium,Resolved,2026-05-14 14:48:51,2026-05-16 09:27:15,42.64
+415,Employee_10,Marketing,Permanent,Internet connection is very slow,Internet connection is very slow,Network,Low,In Progress,2026-09-28 22:54:51,,33.25
+416,Employee_96,Sales,Contract,Software is showing an error,Software is showing an error,Software,High,In Progress,2026-07-01 19:20:51,,0.88
+417,Employee_42,IT,Intern,Possible phishing email,Possible phishing email,Security,Medium,Resolved,2026-06-02 09:49:51,2026-06-02 18:16:51,8.45
+418,Employee_89,Sales,Permanent,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,In Progress,2026-07-16 09:57:51,,35.98
+419,Employee_28,HR,Permanent,VPN is not working,VPN is not working,Network,High,Open,2026-07-08 13:34:51,,5.06
+420,Employee_2,Finance,Contract,Antivirus warning appeared,Antivirus warning appeared,Security,Medium,Open,2026-05-27 07:18:51,,19.86
+421,Employee_83,Operations,Intern,Unable to access office network,Unable to access office network,Network,High,Resolved,2026-05-13 18:16:51,2026-05-14 04:07:51,9.85
+422,Employee_40,Finance,Contract,Keyboard is not working,Keyboard is not working,Hardware,Medium,Open,2026-07-17 12:36:51,,29.48
+423,Employee_98,Sales,Contract,Printer is not working,Printer is not working,Hardware,Low,Open,2026-04-14 07:43:51,,2.89
+424,Employee_29,IT,Intern,Internet connection is very slow,Internet connection is very slow,Network,Low,Resolved,2026-05-18 09:20:51,2026-05-19 10:28:03,25.12
+425,Employee_84,IT,Permanent,Antivirus warning appeared,Antivirus warning appeared,Security,Low,In Progress,2026-06-04 05:40:51,,41.85
+426,Employee_66,Sales,Intern,Security alert received,Security alert received,Security,Low,In Progress,2026-04-27 15:02:51,,21.1
+427,Employee_89,IT,Intern,Mouse is not responding,Mouse is not responding,Hardware,Medium,Resolved,2026-08-24 19:52:51,2026-08-25 02:42:39,6.83
+428,Employee_80,HR,Intern,Antivirus warning appeared,Antivirus warning appeared,Security,Low,Open,2026-07-13 12:47:51,,42.29
+429,Employee_60,HR,Permanent,VPN is not working,VPN is not working,Network,High,Resolved,2026-05-04 07:34:51,2026-05-05 23:57:03,40.37
+430,Employee_24,HR,Intern,Account is locked,Account is locked,Account,Medium,In Progress,2026-07-05 00:54:51,,1.64
+431,Employee_10,Sales,Intern,Mouse is not responding,Mouse is not responding,Hardware,High,Open,2026-09-05 20:23:51,,8.01
+432,Employee_27,HR,Intern,Mouse is not responding,Mouse is not responding,Hardware,High,In Progress,2026-05-03 07:01:51,,1.41
+433,Employee_63,HR,Intern,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Low,In Progress,2026-07-01 15:25:51,,1.57
+434,Employee_71,Sales,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Low,Open,2026-04-30 22:38:51,,16.65
+435,Employee_93,Operations,Permanent,Security alert received,Security alert received,Security,Medium,Open,2026-07-30 01:33:51,,29.21
+436,Employee_97,Finance,Intern,Mouse is not responding,Mouse is not responding,Hardware,High,Resolved,2026-09-27 16:23:51,2026-09-28 23:47:51,31.4
+437,Employee_77,Finance,Permanent,VPN is not working,VPN is not working,Network,High,Resolved,2026-06-26 10:23:51,2026-06-27 23:57:27,37.56
+438,Employee_74,Marketing,Permanent,Keyboard is not working,Keyboard is not working,Hardware,High,In Progress,2026-07-25 10:20:51,,9.84
+439,Employee_77,Finance,Permanent,Application is crashing,Application is crashing,Software,High,Resolved,2026-06-20 21:42:51,2026-06-22 08:45:51,35.05
+440,Employee_82,IT,Contract,Unable to send email,Unable to send email,Email,High,In Progress,2026-06-27 05:18:51,,26.9
+441,Employee_40,IT,Permanent,Password reset required,Password reset required,Account,Low,In Progress,2026-07-15 12:16:51,,18.74
+442,Employee_73,Operations,Contract,Email is not syncing,Email is not syncing,Email,Low,In Progress,2026-09-05 09:08:51,,23.34
+443,Employee_54,HR,Intern,Unable to receive email,Unable to receive email,Email,Low,Resolved,2026-07-10 00:01:51,2026-07-11 17:10:51,41.15
+444,Employee_86,Operations,Permanent,Unauthorized login detected,Unauthorized login detected,Security,High,Resolved,2026-06-10 14:05:51,2026-06-11 12:37:03,22.52
+445,Employee_66,Sales,Permanent,Email attachment is not working,Email attachment is not working,Email,Medium,Open,2026-08-25 09:56:51,,35.59
+446,Employee_68,Operations,Intern,Printer is not working,Printer is not working,Hardware,High,Resolved,2026-04-09 00:08:51,2026-04-09 20:59:51,20.85
+447,Employee_40,Marketing,Contract,Application is crashing,Application is crashing,Software,High,In Progress,2026-05-23 21:03:51,,1.86
+448,Employee_78,IT,Permanent,WiFi is not connecting,WiFi is not connecting,Network,Low,Resolved,2026-07-06 12:29:51,2026-07-06 14:32:51,2.05
+449,Employee_86,IT,Intern,Application is running slowly,Application is running slowly,Software,Low,Resolved,2026-08-18 01:46:51,2026-08-18 21:49:51,20.05
+450,Employee_9,Finance,Intern,Unable to login,Unable to login,Account,Low,In Progress,2026-09-16 12:43:51,,5.02
+451,Employee_99,Operations,Contract,Application is running slowly,Application is running slowly,Software,High,Resolved,2026-04-16 03:11:51,2026-04-16 07:25:03,4.22
+452,Employee_35,Sales,Contract,User account is not working,User account is not working,Account,Medium,In Progress,2026-08-28 21:06:51,,17.04
+453,Employee_88,Marketing,Permanent,Account is locked,Account is locked,Account,High,Open,2026-09-02 05:08:51,,37.25
+454,Employee_50,Sales,Intern,Unauthorized login detected,Unauthorized login detected,Security,Low,In Progress,2026-08-26 20:46:51,,17.87
+455,Employee_13,IT,Contract,Unable to open application,Unable to open application,Software,Low,Open,2026-09-26 03:28:51,,39.7
+456,Employee_17,Operations,Intern,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,Medium,In Progress,2026-08-02 15:56:51,,38.29
+457,Employee_66,Finance,Contract,Unable to open application,Unable to open application,Software,Medium,Resolved,2026-04-19 19:44:51,2026-04-20 03:04:03,7.32
+458,Employee_62,HR,Permanent,Email is not syncing,Email is not syncing,Email,Low,Resolved,2026-04-21 08:53:51,2026-04-23 05:19:03,44.42
+459,Employee_10,Operations,Permanent,Laptop is not turning on,Laptop is not turning on,Hardware,Medium,In Progress,2026-09-28 11:31:51,,16.42
+460,Employee_63,Marketing,Contract,Unable to access office network,Unable to access office network,Network,Low,In Progress,2026-04-09 15:38:51,,43.12
+461,Employee_59,IT,Intern,Network connection keeps disconnecting,Network connection keeps disconnecting,Network,High,Resolved,2026-08-19 23:23:51,2026-08-21 03:35:15,28.19
+462,Employee_49,Operations,Contract,Password reset required,Password reset required,Account,High,Open,2026-06-21 07:39:51,,14.84
+463,Employee_53,HR,Contract,Unauthorized login detected,Unauthorized login detected,Security,Low,In Progress,2026-04-30 07:07:51,,37.59
+464,Employee_41,Marketing,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,Medium,Open,2026-06-07 15:43:51,,18.64
+465,Employee_79,HR,Contract,WiFi is not connecting,WiFi is not connecting,Network,High,Resolved,2026-07-28 14:31:51,2026-07-28 19:07:51,4.6
+466,Employee_84,Operations,Permanent,Password reset required,Password reset required,Account,Low,In Progress,2026-08-07 13:20:51,,1.96
+467,Employee_1,Operations,Permanent,Account is locked,Account is locked,Account,Low,In Progress,2026-07-08 13:40:51,,29.38
+468,Employee_97,Sales,Permanent,Unable to send email,Unable to send email,Email,High,Resolved,2026-06-09 01:00:51,2026-06-09 13:40:27,12.66
+469,Employee_51,Marketing,Intern,WiFi is not connecting,WiFi is not connecting,Network,Low,In Progress,2026-09-27 10:26:51,,43.22
+470,Employee_48,HR,Permanent,Unable to send email,Unable to send email,Email,Medium,In Progress,2026-05-10 01:42:51,,34.81
+471,Employee_56,IT,Intern,Unauthorized login detected,Unauthorized login detected,Security,Medium,Resolved,2026-05-10 15:04:51,2026-05-11 22:26:27,31.36
+472,Employee_100,Finance,Intern,Software is showing an error,Software is showing an error,Software,Medium,Resolved,2026-04-10 01:32:51,2026-04-11 07:36:27,30.06
+473,Employee_94,HR,Intern,Security alert received,Security alert received,Security,High,Resolved,2026-09-28 05:53:51,2026-09-29 00:04:03,18.17
+474,Employee_54,Finance,Contract,Unable to send email,Unable to send email,Email,Low,Resolved,2026-05-26 01:08:51,2026-05-27 20:43:03,43.57
+475,Employee_3,IT,Contract,Need access to account,Need access to account,Account,High,Resolved,2026-07-06 00:15:51,2026-07-07 12:18:15,36.04
+476,Employee_67,Operations,Contract,Unable to receive email,Unable to receive email,Email,Low,In Progress,2026-08-17 06:47:51,,5.16
+477,Employee_89,Marketing,Permanent,Internet connection is very slow,Internet connection is very slow,Network,High,Resolved,2026-05-01 21:13:51,2026-05-03 01:44:27,28.51
+478,Employee_88,Finance,Contract,Unable to access office network,Unable to access office network,Network,Low,Resolved,2026-05-14 12:51:51,2026-05-15 13:26:39,24.58
+479,Employee_79,Operations,Contract,VPN is not working,VPN is not working,Network,Medium,Open,2026-06-11 12:10:51,,31.01
+480,Employee_75,Marketing,Intern,User account is not working,User account is not working,Account,Low,Open,2026-08-09 11:41:51,,23.57
+481,Employee_55,Operations,Intern,Suspicious email received,Suspicious email received,Security,Low,Resolved,2026-06-01 12:39:51,2026-06-03 00:47:39,36.13
+482,Employee_88,Finance,Permanent,Security alert received,Security alert received,Security,Medium,In Progress,2026-04-05 09:08:51,,22.25
+483,Employee_14,HR,Permanent,VPN is not working,VPN is not working,Network,High,In Progress,2026-04-09 01:19:51,,18.3
+484,Employee_16,Marketing,Intern,Account is locked,Account is locked,Account,Medium,Open,2026-07-02 21:34:51,,31.44
+485,Employee_83,Operations,Permanent,Unable to access office network,Unable to access office network,Network,High,Open,2026-04-11 16:35:51,,38.22
+486,Employee_83,Finance,Contract,Antivirus warning appeared,Antivirus warning appeared,Security,Low,Resolved,2026-06-22 11:01:51,2026-06-23 12:36:39,25.58
+487,Employee_35,IT,Intern,Printer is not working,Printer is not working,Hardware,High,Resolved,2026-05-06 23:49:51,2026-05-08 19:30:39,43.68
+488,Employee_99,Operations,Permanent,Unable to receive email,Unable to receive email,Email,Medium,Open,2026-06-17 09:16:51,,1.76
+489,Employee_90,Marketing,Permanent,Application is crashing,Application is crashing,Software,High,In Progress,2026-06-13 04:48:51,,12.59
+490,Employee_78,Operations,Intern,Suspicious email received,Suspicious email received,Security,Medium,In Progress,2026-09-05 08:34:51,,32.05
+491,Employee_44,Sales,Intern,Software is showing an error,Software is showing an error,Software,Medium,In Progress,2026-04-09 10:57:51,,38.36
+492,Employee_14,Finance,Intern,Password reset required,Password reset required,Account,Medium,In Progress,2026-04-29 21:00:51,,13.31
+493,Employee_45,Finance,Permanent,Unable to access office network,Unable to access office network,Network,High,Resolved,2026-09-11 05:24:51,2026-09-11 06:05:03,0.67
+494,Employee_15,Finance,Permanent,Internet connection is very slow,Internet connection is very slow,Network,Low,Open,2026-04-04 00:30:51,,33.54
+495,Employee_2,Marketing,Permanent,Application is crashing,Application is crashing,Software,High,In Progress,2026-07-17 16:42:51,,7.24
+496,Employee_88,IT,Permanent,Printer is not working,Printer is not working,Hardware,Medium,Resolved,2026-04-16 03:27:51,2026-04-16 07:14:39,3.78
+497,Employee_23,Marketing,Permanent,Software installation failed,Software installation failed,Software,High,In Progress,2026-09-14 05:12:51,,18.37
+498,Employee_29,IT,Contract,Monitor is not displaying properly,Monitor is not displaying properly,Hardware,High,In Progress,2026-09-15 04:22:51,,33.11
+499,Employee_69,Finance,Intern,Possible phishing email,Possible phishing email,Security,Medium,Resolved,2026-04-08 12:37:51,2026-04-08 20:15:03,7.62
+500,Employee_93,Sales,Contract,Mouse is not responding,Mouse is not responding,Hardware,High,In Progress,2026-08-28 06:50:51,,27.44

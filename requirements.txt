@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pg8000
+pydantic
+langgraph
+mcp
